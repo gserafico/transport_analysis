@@ -1,0 +1,11 @@
+stop_id,betweenness_centrality,stop_name_x,stop_lat_x,stop_lon_x,stop_name_y,stop_lat_y,stop_lon_y
+LTFRB_1140,0.1462543157332211,"North Luzon Expressway / Epifanio de los Santos Avenue Intersection, Caloocan City",14.6573,121.0,"North Luzon Expressway / Epifanio de los Santos Avenue Intersection, Caloocan City",14.6573,121.0
+LTFRB_1139,0.1280341533804469,"North Luzon Expressway near Bonifacio Memorial Elementary School, Caloocan City",14.6591,121.0,"North Luzon Expressway near Bonifacio Memorial Elementary School, Caloocan City",14.6591,121.0
+LTFRB_2058,0.1104971558226656,"Boni Ave / Epifanio de los Santos Avenue Intersection, Mandaluyong City, Manila",14.5725,121.047,"Boni Ave / Epifanio de los Santos Avenue Intersection, Mandaluyong City, Manila",14.5725,121.047
+LTFRB_2057,0.1104426042506527,"Epifanio de los Santos Avenue, Mandaluyong City, Manila",14.5762,121.05,"Epifanio de los Santos Avenue, Mandaluyong City, Manila",14.5762,121.05
+LTFRB_3034,0.1093452551896289,"Ortigas Ave / Dr Sixto Antonio Ave Intersection, Pasig City, Manila",14.5905,121.085,"Ortigas Ave / Dr Sixto Antonio Ave Intersection, Pasig City, Manila",14.5905,121.085
+LTFRB_644,0.1030879597577305,"North Luzon Expressway, Caloocan City",14.7096,120.992,"North Luzon Expressway, Caloocan City",14.7096,120.992
+LTFRB_1056,0.1030299122905128,"Quirino Highway, Quezon City",14.6918,121.029,"Quirino Highway, Quezon City",14.6918,121.029
+LTFRB_652,0.1027497799941183,"North Luzon Expressway, Valenzuela City",14.7111,120.991,"North Luzon Expressway, Valenzuela City",14.7111,120.991
+LTFRB_653,0.1024117263856031,"North Luzon Expressway, Valenzuela City",14.7131,120.99,"North Luzon Expressway, Valenzuela City",14.7131,120.99
+LTFRB_2055,0.102293572618405,"Epifanio de los Santos Avenue /  Shaw Blvd Intersection, Mandaluyong City, Manila",14.5811,121.054,"Epifanio de los Santos Avenue /  Shaw Blvd Intersection, Mandaluyong City, Manila",14.5811,121.054

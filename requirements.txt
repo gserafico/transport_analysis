@@ -1,0 +1,24 @@
+# Combined Requirements for GTFS and Video Analysis
+
+# Core Data & Analysis
+pandas==2.2.3
+numpy==2.2.5
+
+# GTFS Analysis Specific
+networkx==3.4.2
+
+# Video Analysis Specific
+roboflow==1.1.61
+supervision==0.25.1
+opencv-python==4.11.0.86
+tqdm==4.67.1
+
+# Visualization (Used by GTFS workflow)
+matplotlib==3.10.1
+seaborn==0.13.2
+
+# Optional Dependencies
+googlemaps==4.10.0      # Optional: For Google API comparison in GTFS workflow
+geopandas==1.0.1        # Optional: For spatial analysis/plotting in GTFS workflow
+shapely==2.1.0          # Optional: Dependency for geopandas
+contextily==1.6.2       # Optional: For spatial plot basemaps in GTFS workflow

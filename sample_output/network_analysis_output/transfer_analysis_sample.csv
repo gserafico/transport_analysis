@@ -1,0 +1,1001 @@
+origin,origin_stop_name,destination,dest_stop_name,travel_time_formatted,num_transfers,path_length_stops,travel_time_seconds
+LTFRB_3212,"Capt. Henry P. Javier / St.Martin Intersection, Pasig City, Manila",LTFRB_717,"Paso de Blas, Valenzuela City",01:43:52,10,81,6232.0
+LTFRB_3386,"Manila Road East / Talisay Intersection, Taytay, Manila",LTFRB_3439,"Ortigas Avenue Extension, Cainta, Manila",00:24:49,1,20,1489.0
+LTFRB_1879,"Pedro Gil, Manila",LTFRB_4735,"Road 10, Quezon City",00:55:15,10,40,3315.0
+LTFRB_1102,"Congressional Avenue / San Miguel Intersection, Quezon City",LTFRB_3821,"Opal St / Diamond St Intersection, Marikina City, Manila",00:52:16,4,41,3136.0
+LTFRB_1757,"Tramo, Lungsod ng Pasay",LTFRB_312,"C. Cordero Street / 4th Avenue West Intersection, Caloocan City",01:10:09,9,44,4209.0
+LTFRB_3171,"Reliance St, Mandaluyong City, Manila",LTFRB_4213,"Epifanio de los Santos Av / Aurora Blvd, Quezon City, Manila",00:29:00,3,25,1740.0
+LTFRB_11,"Our Lady Manaoag College/ ELCO Lumber Corp., MacArthur Highway, Balagtas",LTFRB_1743,"Taft Ave, Lungsod ng Pasay",02:46:44,15,113,10004.0
+LTFRB_2009,"South Ave / Pablo Ocampo Sr. Extension, Makati City, Manila",LTFRB_261,"Dagohoy, Malabon City",01:09:32,9,41,4172.0
+LTFRB_4443,"Emaculate Conception Cathedral Parish, Vancouver / Lantana St, Quezon City, Manila",LTFRB_4640,"Salcedo, Makati City",00:59:23,12,47,3563.0
+LTFRB_1003,"St Peter Chapels, Commonwealth Avenue, Quezon City",LTFRB_1707,"Vicente Sotto, Lungsod ng Pasay, Manila",01:26:02,16,61,5162.0
+LTFRB_154,"J. P Rizal / Pantay - Bituin Intersection, Obando",LTFRB_3023,"Dr Sixto Antonio Ave, Pasig City, Manila",02:11:46,16,88,7906.0
+LTFRB_2448,"Emilio Aguinaldo Hwy, Lungsod ng Dasmariñas, Manila",LTFRB_539,"Camarin Road, Caloocan City",04:34:47,19,185,16487.0
+LTFRB_2878,"National Hwy, Muntinlupa City, Manila",LTFRB_4998,Pandacan PNR,Infinite,-1,0,inf
+LTFRB_1365,"Santo Domingo Church, Quezon Avenue, Quezon City",LTFRB_4562,"Daang Reyna, Montinlupa City",02:44:08,17,69,9848.0
+LTFRB_1280,"Del Monte Avenue / Malac Intersection, Quezon City",LTFRB_3456,"Manila East Rd, Tatay, Manila",01:35:56,11,78,5756.0
+LTFRB_1528,"Oroquieta, Manila",LTFRB_2198,"Kamias Rd / Anonas Extension Intersection, Quezon City, Manila",00:40:22,5,32,2422.0
+LTFRB_4238,"Epifanio de los Santos Av, Makati City, Manila",LTFRB_796,"Ascencion Avenue / La Naval Intersection, Quezon City",02:11:04,9,85,7864.0
+LTFRB_2697,"GSIS Rd, Bacoor City, Manila",LTFRB_4972,Guadalupe MRT ,01:49:33,8,69,6573.0
+LTFRB_1195,"Quirino Highway / Rodriguez Drive Intersection, Quezon City",LTFRB_3591,"Sumulong Hwy, Antipolo City, Manila",01:53:39,8,92,6819.0
+LTFRB_1668,"Marcelo H. del Pilar / Salas Intersection, Manila",LTFRB_3160,"M. Concepcion Ave / F. Angeles Intersection, Pasig City, Manila",00:52:06,5,38,3126.0
+LTFRB_2633,"Manuel L. Quezon, Muntinlupa City, Manila",LTFRB_750,"Quirino Highway, Calcoocan City",03:26:00,25,106,12360.0
+LTFRB_1280,"Del Monte Avenue / Malac Intersection, Quezon City",LTFRB_777,"Dela Costa Avenue, Calcoocan City",01:27:31,14,64,5251.0
+LTFRB_22,"Blue Castle Bar, Marilao",LTFRB_3554,"L. Sumulong Memorial Cir,  Antipolo City, Manila",03:30:00,27,177,12600.0
+LTFRB_1474,"Lacson Avenue, Manila",LTFRB_3839,"Bayan-Bayanan Ave, Marikina City, Manila",01:17:20,12,58,4640.0
+LTFRB_1678,"Gen M Malvar / Luis Maria Guerero St Intersection, Manila",LTFRB_860,"Payatas Road, Quezon City",01:50:09,15,76,6609.0
+LTFRB_1970,"Makati Ave / Ayala Avenue Intersection, Makati City, Manila",LTFRB_4436,"Maryland / New York City Ave, Quezon City, Manila",00:51:04,5,39,3064.0
+LTFRB_1005,"Social Science Institute, Commonwealth Avenue, Quezon City",LTFRB_704,"Bahay Pare Road, City of Meycauayan",01:54:52,9,93,6892.0
+LTFRB_1749,"Leveriza, Lungsod ng Pasay",LTFRB_3348,"Eastgate Ave, Taytay, Manila",01:39:59,13,56,5999.0
+LTFRB_4176,"North Luzon Expressway, Marilao, Manila",LTFRB_4717,"Santo Nino Street, Antipolo",03:00:14,20,143,10814.0
+LTFRB_1038,"Tandang Sora / Demetria Reynaldo Intersection, Quezon City",LTFRB_1630,"Bonifacio Drive, Manila",01:21:07,13,60,4867.0
+LTFRB_2516,"Emilio Aguinaldo Hwy, Lungsod ng Dasmariñas, Manila",LTFRB_576,"Camarin Road, Caloocan City",04:23:34,15,178,15814.0
+LTFRB_1896,"Nagtahan Bridge, Manila",LTFRB_3200,"Ortigas Ave, Pasig City, Manila",00:51:17,5,26,3077.0
+LTFRB_1039,"Congressional Avenue Extension, Quezon City",LTFRB_2390,"Dr A. Santos Ave / President's Ave Intersection, Parañaque City, Manila",02:21:38,14,83,8498.0
+LTFRB_1685,"President Quirino Ave / Madre Ignacia Intersection, Manila",LTFRB_2014,"J.P. Rizal Ave / M.L Quezon Intersection, Makati City, Manila",00:27:17,6,16,1637.0
+LTFRB_4163,"North Luzon Expressway, Marilao, Manila",LTFRB_809,"Regalado Highway, Quezon City",01:39:23,9,70,5963.0
+LTFRB_2226,"J.P. Rizal, Quezon City, Manila",LTFRB_2642,"Alabang-Zapote Road, Muntinlupa City, Manila",02:15:11,15,73,8111.0
+LTFRB_1189,"Roxas, Quirino Highway, Quezon City",LTFRB_91,"MacArthur Highway / San Francisco, MacArthur Highway, Karuhatan, Valenzuela City",00:41:43,3,32,2503.0
+LTFRB_1083,Road 1 / A27 Intersection Quezon City,LTFRB_1608,"Dasmariñas / Juan Luna Intersection, Manila",00:57:39,10,49,3459.0
+LTFRB_1998,"Don Chino Roces Avenue, Makati City, Manila",LTFRB_3441,"Ortigas Avenue Extension, Cainta, Manila",01:07:46,9,47,4066.0
+LTFRB_2970,"M. L. Quezon St / Magsaysay Rd Intersection, Taguig City, Manila",LTFRB_4944,Baclaran LRT,Infinite,-1,0,inf
+LTFRB_1462,"Tomas Mapua / Camarines Intersection, Manila",LTFRB_2658,"Unilever, Alabang-Zapote Road, Las Piñas City, Manila",01:54:00,12,67,6840.0
+LTFRB_350,"d E. Marcos Highway / Herbosa Intersection, Velasquez, Tondo",LTFRB_4691,"Gregorio Araneta Ave, Quezon City",00:38:14,6,29,2294.0
+LTFRB_1232,"Congressional Avenue, Quezon City",LTFRB_3423,"Riverside Dr, Pagis City, Manila",01:20:32,12,69,4832.0
+LTFRB_3570,"J.P. Rizal St, Antipolo City, Manila",LTFRB_431,"Un-named Road, City of San Jose del Monte",03:13:49,10,138,11629.0
+LTFRB_2500,"Don Placido Campos Ave / Emilio Aguinaldo Hwy Intersection, Lungsod ng Dasmariñas, Manila",LTFRB_3999,"Santa Maria San Jose Rd, Santa Maria, Manila",05:53:10,15,249,21190.0
+LTFRB_2536,"Molino Rd, Bacoor City, Manila",LTFRB_833,"Belfast / SM Fairview Intersection, Quezon City",03:13:51,17,128,11631.0
+LTFRB_4073,"Unnamed Road, City of San Jose del Monte, Manila",LTFRB_4746,"R Humabon, Quezon City",Infinite,-1,0,inf
+LTFRB_1195,"Quirino Highway / Rodriguez Drive Intersection, Quezon City",LTFRB_2486,"Emilio Aguinaldo Hwy, Imus, Manila",02:47:18,16,94,10038.0
+LTFRB_2429,"Emilio Aguinaldo Hwy, Imus, Manila",LTFRB_4431,"Mindanao Av, Quezon City, Manila",02:59:45,12,118,10785.0
+LTFRB_267,"Angelus Funeral Home, Samson Road, Caloocan City",LTFRB_5009,Pacita Complex PNR,Infinite,-1,0,inf
+LTFRB_2494,"Emilio Aguinaldo Hwy, Imus, Manila",LTFRB_3259,"Mercedes Ave, Pasig City, Manila",03:01:54,14,127,10914.0
+LTFRB_3565,"General Luna St, Antipolo City, Manila",LTFRB_657,North Luzon Expressway / Dulalia Intersection Valenzuela City,02:40:30,17,134,9630.0
+LTFRB_1247,"Dangay / Bansalangin Intersection, Quezon City",LTFRB_580,"Camarin Road near Gemini Interserction, Caloocan City",00:57:29,8,44,3449.0
+LTFRB_3082,"4th Avenue, Taguig City, Manila",LTFRB_4031,"Quirino Highway, City of San Jose del Monte, Manila",03:31:27,19,156,12687.0
+LTFRB_3388,"Rodriguez Ave, Taytay, Manila",LTFRB_3797,"Mayor Gil Fernando Ave, Marikina City, Manila",00:43:57,3,27,2637.0
+LTFRB_2110,"Teodoro Gener / Kamuning Rd, Quezon City, Manila",LTFRB_2767,"Governor's Drive / Congressional Rd Intersection, Carmona, Manila",03:22:46,13,107,12166.0
+LTFRB_1496,"Halcon / Espana Boulevard Intersection, Manila",LTFRB_1971,"Paseo de Roxas / Ayala Avenue Intersection, Makati City, Manila",00:50:12,7,28,3012.0
+LTFRB_4554,"Daang Reyna, Montinlupa City",LTFRB_848,"Regalado / Pontiac Intersection, Quezon City",03:54:21,16,138,14061.0
+LTFRB_2154,"Ortigas Ave / Columbia Intersection, Manila",LTFRB_565,"Zabarte Road / Zabarte Ext. Intersection, Caloocan City",01:40:03,14,69,6003.0
+LTFRB_3366,"E Bank Rd, Pasig City, Manila",LTFRB_3821,"Opal St / Diamond St Intersection, Marikina City, Manila",00:39:52,3,32,2392.0
+LTFRB_2621,"Alabang-South Station Ramp, Muntinlupa City, Manila",LTFRB_4775,"Glen T de Leon, Valenzuela City",Infinite,-1,0,inf
+LTFRB_2329,"Taft Avenue Extension / Epifanio de los Santos Avenue, Lungsod ng Pasay, Manila",LTFRB_2850,"National Hwy, San Pedro, Manila",01:59:20,8,55,7160.0
+LTFRB_221,"Governor Pascual, City of Navotas",LTFRB_3639,"Marcos Hwy, Antipolo City, Manila",02:21:28,13,112,8488.0
+LTFRB_172,"J. P Rizal, Obando",LTFRB_2886,"South Luzon Expressway, Taguig City, Manila",02:24:26,16,79,8666.0
+LTFRB_1154,"Epifanio de los Santos Avenue / 8th Street Intersection , Caloocan City",LTFRB_3929,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",02:17:50,3,109,8270.0
+LTFRB_4029,"Dr Eduardo V. Roquero Sr. Rd, City of San Jose del Monte, Manila",LTFRB_4412,"N. Western St / Service Rd, San Juan, Manila",03:05:12,18,143,11112.0
+LTFRB_2434,"Emilio Aguinaldo Hwy / Anabu Kostal Rd Intersection, Imus, Manila",LTFRB_3448,"Ortigas Avenue Extension, Tatay Manila",03:03:29,14,125,11009.0
+LTFRB_3027,"Dr Sixto Antonio Ave, Pasig City, Manila",LTFRB_4751,"Balagtas, Quezon City",Infinite,-1,0,inf
+LTFRB_2363,"Ninoy Aquino Ave, Parañaque City, Manila",LTFRB_3747,"J. P. Rizal St / R. Santos ntersection, Marikina City, Manila",01:56:59,17,79,7019.0
+LTFRB_2955,"Manuel L. Quezon, Manila",LTFRB_433,"FMA Private Garden Resort, Un-named Road, City of San Jose del Monte",03:58:20,22,176,14300.0
+LTFRB_2803,"NBP Plaza Basketball Court, Bilibid Rd, Muntinlupa City, Manila",LTFRB_951,"Gen. A Luna, San Mateo",03:05:18,11,140,11118.0
+LTFRB_4114,"San Jose del Monte - Marilao Rd, Marilao, Manila",LTFRB_58,"ET Pacific, MacArthur Highway, City of Meycauayan",01:34:01,4,74,5641.0
+LTFRB_1411,"Andres Bonifacio / Lunas Intersection, Quezon City",LTFRB_557,"Mahogany, Caloocan City",01:16:31,7,63,4591.0
+LTFRB_1643,"Padre Burgos St / Anda Intersection, Manila",LTFRB_3733,"Amang Rodriguez Ave, Pasig City, Manila",01:08:50,11,49,4130.0
+LTFRB_3916,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",LTFRB_975,"J.P Rizal, Quezon City",02:52:34,14,117,10354.0
+LTFRB_1757,"Tramo, Lungsod ng Pasay",LTFRB_1880,"San Gregorio Bridge, Manila",00:34:23,3,18,2063.0
+LTFRB_608,"Topaz / Ruby Intersection, Caloocan City",LTFRB_928,"Gen. A Luna / E Delos Angeles Street Intersection, San Mateo",01:29:11,11,63,5351.0
+LTFRB_1458,"Jose Abad Santos Avenue, Quezon City",LTFRB_2694,"Alvarez Extension, Las Piñas City, Manila",02:19:13,15,88,8353.0
+LTFRB_3423,"Riverside Dr, Pagis City, Manila",LTFRB_4471,"Ortigas Ave Extension, Antipolo City, Manila",00:39:20,4,40,2360.0
+LTFRB_2151,"Ortigas Ave, San Juan, Manila",LTFRB_52,MacArthur Highway / Banga - Tugatog Road Intersection City of Meycauayan,01:49:07,13,67,6547.0
+LTFRB_2489,"Emilio Aguinaldo Hwy, Imus, Manila",LTFRB_4460,"Epifanio de los Santos Ave / Lions Rd, Makati City, Manila",02:08:31,8,85,7711.0
+LTFRB_168,"Tawiran Road, Obando",LTFRB_2715,"Estanislao St / South Luzon Expressway Intersection, Muntinlupa City, Manila",03:36:42,20,116,13002.0
+LTFRB_3706,"Felix Ave, Cainta, Manila",LTFRB_4413,"Greenhills Shopping Centre, Service Rd, San Juan, Manila",00:56:42,12,39,3402.0
+LTFRB_1842,"Ramon Magsaysay Blvd, Manila",LTFRB_4719,"Gen Ordonez Ave, Marikina City",00:58:12,7,37,3492.0
+LTFRB_4689,"Gregorio Araneta Ave, Quezon City",LTFRB_69,"Ign Pharmacy, MacArthur Highway, Dalandanan, Valenzuela City",00:51:04,3,35,3064.0
+LTFRB_1205,"Tanding Sora Avenue, Quezon City",LTFRB_2511,"Emilio Aguinaldo Hwy, Lungsod ng Dasmariñas, Manila",04:07:55,23,144,14875.0
+LTFRB_3191,"Ortigas Ave, Pasig City, Manila",LTFRB_371,"Angels Home Learning School, Juan Luma, Manila",01:04:40,12,33,3880.0
+LTFRB_1816,"G Tuazon / Union Civica Intersection, Manila",LTFRB_4322,"Bautista / Arellano Ave, Makati City, Manila",00:39:14,8,26,2354.0
+LTFRB_1889,"Palumpong / Beata Intersection, Manila",LTFRB_356,"Emilio Jacinto Elementary School, Velasquez, Tondo",00:34:02,6,25,2042.0
+LTFRB_3139,"San Jose Street, Makati City, Manila",LTFRB_4116,"San Jose del Monte - Marilao Rd, Marilao, Manila",02:39:05,10,123,9545.0
+LTFRB_3825,"E Rodriguez Ave, Marikina City, Manila",LTFRB_882,"Payatas Road, Rodriguez",01:03:46,4,55,3826.0
+LTFRB_327,"2th Avenue West, Teodoro, Caloocan City",LTFRB_3476,"Un- named road, Teresa, Manila",02:42:04,16,129,9724.0
+LTFRB_4167,"North Luzon Expressway, Marilao, Manila",LTFRB_637,"Genteral Luis / ITC Road Intersection, Caloocan City",01:06:26,1,48,3986.0
+LTFRB_1928,"Dela Rosa Street / Don Chino Roces Avenue Intersection, Makati City",LTFRB_2983,"Gen. Luna St / Levi B. Mariano Ave Intersection, Taguig City, Manila",00:49:17,7,33,2957.0
+LTFRB_1938,"M. dela Cruz St, Lungsod ng Pasay, Manila",LTFRB_3246,"Balderama, Pasig City, Manila",01:04:13,10,45,3853.0
+LTFRB_2752,"Halang Rd, Biñan City, Manila",LTFRB_4138,"San Jose del Monte - Marilao Rd, Marilao, Manila",04:27:29,20,153,16049.0
+LTFRB_2383,"Dr A. Santos Ave / Vitalez Intersection, Parañaque City, Manila",LTFRB_3084,"4th Avenue / 30th Street Intersection, Taguig City, Manila",01:18:36,7,44,4716.0
+LTFRB_3339,"Baytown, Angono, Manila",LTFRB_4705,"M H Del Pilar St, Pasig City",01:08:04,4,53,4084.0
+LTFRB_3425,"Ortigas Ave, Pagis City, Manila",LTFRB_4968,Santolan MRT,01:01:35,9,37,3695.0
+LTFRB_1949,"Epifanio de los Santos Avenue, Lungsod ng Makati, Manila",LTFRB_288,"Pagamutang Bayan Ng Malabon, Dagat- Dagatan Avenue, Caloocan City",01:17:43,8,51,4663.0
+LTFRB_1919,"Rockefeller / Edison Intersection, Makati City",LTFRB_4086,"San Jose del Monte - Marilao Rd, City of San Jose del Monte, Manila",03:05:31,10,142,11131.0
+LTFRB_2351,"Quirino Ave / Lopez de Leon Intersection, Parañaque City, Manila",LTFRB_4549,"Daang Reyna, Montinlupa City",01:58:53,4,82,7133.0
+LTFRB_438,"Quirino Highway, City of San Jose del Monte",LTFRB_4489,"Padre Burgos St / Taft Ave, Manila",02:44:18,13,117,9858.0
+LTFRB_1615,"Rizal Avenue, Manila",LTFRB_332,"President Ferdinand E. Marcos Highway, Tondo",00:37:08,3,25,2228.0
+LTFRB_1339,"D Tuazon, Quezon City",LTFRB_3445,"Ortigas Avenue Extension, Cainta, Manila",01:26:51,10,61,5211.0
+LTFRB_2793,"Congressional Rd,  General Mariano Alvarez, Manila",LTFRB_930,"Gen. A Luna, San Mateo",04:41:24,14,199,16884.0
+LTFRB_2026,"Countryside  / E.Pantaleon Intersection, Makati City, Manila",LTFRB_2881,"National Hwy, Muntinlupa City, Manila",01:58:12,9,51,7092.0
+LTFRB_2739,"South Luzon Expressway, Biñan City, Manila",LTFRB_776,"St Mary Goretti School, Katmon, Calcoocan City",04:51:24,28,153,17484.0
+LTFRB_3065,"Carlos P. Garcia Ave, Taguig City, Manila",LTFRB_4621,"Jerusalem, Paranaque City",Infinite,-1,0,inf
+EDSA_13,EDSA Carousel Bus Stop - Roxas Boulevard,LTFRB_47,"PWRHAUZ Ministries Inc., Malhacan Road, City of Meycauayan",Infinite,-1,0,inf
+LTFRB_1436,"Tiago, Quezon City",LTFRB_2258,"BIR Rd, Quezon City, Manila",00:37:45,9,30,2265.0
+LTFRB_4630,"Multinational Avenue, Paranaque City",LTFRB_4970,Shaw MRT ,00:34:42,5,16,2082.0
+LTFRB_1062,"Mindanao Avenue, Quezon City",LTFRB_2308,"Manila-Cavite Expressway, Parañaque City, Manila",01:47:25,16,73,6445.0
+LTFRB_185,Don Bastilio Bautista Boulevard / Gov. Andres Gabriel Intersection Malabon City,LTFRB_4948,Vito Cruz LRT,Infinite,-1,0,inf
+LTFRB_4046,"Unnamed Road Near Quirino Highway, City of San Jose del Monte, Manila",LTFRB_4623,"Jerusalem Extension, Sacred Heart School, Paranaque City",Infinite,-1,0,inf
+LTFRB_2223,"Quirino Memorial Medical Cener, J.P. Rizal Street, Quezon City, Manila",LTFRB_3047,"Caruncho, Pasig City, Manila",00:50:52,8,46,3052.0
+LTFRB_2520,"Molino Rd, Bacoor City, Manila",LTFRB_4362,"Katipunan Ave, Quezon City, Manila",02:17:00,14,80,8220.0
+LTFRB_1673,"A.Mabini, Manila",LTFRB_2983,"Gen. Luna St / Levi B. Mariano Ave Intersection, Taguig City, Manila",01:07:38,11,43,4058.0
+LTFRB_1106,"Banlat Road / Ambuklao Intersection, Quezon City",LTFRB_539,"Camarin Road, Caloocan City",01:05:23,9,54,3923.0
+LTFRB_1364,"Quezon Avenue, Quezon City",LTFRB_241,"M. D Del Pilar, Malabon City",01:01:34,8,52,3694.0
+LTFRB_3861,"Lawaan St, Marikina City, Manila",LTFRB_495,"Sto. Nino Parish, Old Zabarte, Caloocan City",01:38:33,7,63,5913.0
+LTFRB_1370,"Quezon Avenue / Roosevelt Avenue Intersection, Quezon City",LTFRB_898,"Mayon Avenue, Rodriguez",01:44:51,6,89,6291.0
+LTFRB_4141,"San Jose del Monte - Marilao Rd / North Luzon Expressway, Marilao, Manila",LTFRB_940,"Gen. A Luna, San Mateo",02:24:41,15,98,8681.0
+LTFRB_2599,"Church of Jesus Chris Latter day Saints, Congressional Rd, Lungsod ng Dasmariñas, Manila",LTFRB_480,"Malaria Road, City of San Jose del Monte",04:50:04,21,182,17404.0
+LTFRB_4181,"Congressional Rd / Rizal Av, General Mariano Alvarez, Manila",LTFRB_971,"J.P Rizal, Quezon City",04:18:46,17,184,15526.0
+LTFRB_1525,"Claro M. Recto Ave / Quezon Blvd Intersection, Manila",LTFRB_611,"Gold / Silver Intersection, Caloocan City",01:16:51,7,61,4611.0
+LTFRB_3108,"Kalayaan Ave, Taguig City, Manila",LTFRB_4197,"MMDA EDSA-Central Terminal Bus Station Northbound, Quezon City, Manila",00:53:34,4,49,3214.0
+LTFRB_4239,"Epifanio de los Santos Av, Makati City, Manila",LTFRB_704,"Bahay Pare Road, City of Meycauayan",02:37:29,13,117,9449.0
+LTFRB_1559,"C. La Torre / Antonio Rivera Intersection., Manila",LTFRB_3853,"Lilac St, Marikina City, Manila",01:39:59,15,79,5999.0
+LTFRB_1035,"Tandang Sora / Manguiat Intersection, Quezon City",LTFRB_562,"Bernardo General Hospital, Zabarte Road, Caloocan City",00:56:18,7,44,3378.0
+LTFRB_3690,"Marcos Hwy, Antipolo City, Manila",LTFRB_921,"Montalban Church, Daang Hari Streeet Intersection, Rodriguez",01:09:39,4,58,4179.0
+LTFRB_1890,"Beata, Manila",LTFRB_2537,"Molino Rd, Bacoor City, Manila",01:50:20,7,66,6620.0
+LTFRB_3872,"International Centre of Information Technology Education, Pasig City, Manila",LTFRB_4237,"MRT-3 Magallanes Station, EDSA, Makati City, Manila",00:59:24,11,35,3564.0
+LTFRB_1972,"Paseo de Roxas, Makati City, Manila",LTFRB_4643,"Jollibee, Makati Ave, Makati City",00:05:38,2,5,338.0
+FORT_9,"Market! Market!, Taguig City",LTFRB_1092,"Congressional Avenue, Quezon City",01:43:25,9,68,6205.0
+LTFRB_1342,"N. S. Amoranto Sr. Avenue, Quezon City",LTFRB_4817,"M de Leon Street, Santa Maria",Infinite,-1,0,inf
+LTFRB_210,"Sacristan / C. Arellano Road Intersection, Malabon City",LTFRB_3556,"C. Lawis St,  Antipolo City, Manila",02:33:57,22,130,9237.0
+LTFRB_2309,"Manila-Cavite Expressway, Parañaque City, Manila",LTFRB_4091,"San Jose del Monte - Marilao Rd, City of San Jose del Monte, Manila",03:20:59,11,144,12059.0
+LTFRB_1160,"5th Street / Macbagdal Intersection, Caloocan City",LTFRB_552,"St Claire College of Caloocan, Zabarte Road, Caloocan City",01:11:16,7,59,4276.0
+LTFRB_1100,"Congressional Avenue, Quezon City",LTFRB_71,"Inglesia Ni Cristo, MacArthur Highway, Dalandanan, Valenzuela City",01:06:19,5,48,3979.0
+LTFRB_41,"St Mary's College, MacArthur Highway, City of Meycauayan",LTFRB_4527,"Governer's Drive, Langkaan Chrurch, Dasmarinas City",04:30:12,28,170,16212.0
+LTFRB_1077,"SM Hypermarket, North Avenue, Quezon City",LTFRB_2495,"Emilio Aguinaldo Hwy, Lungsod ng Dasmariñas, Manila",03:12:09,18,116,11529.0
+LTFRB_1650,"A F. Torres, Manila",LTFRB_4632,"A. Luna, Barangay 29",00:31:50,5,17,1910.0
+LTFRB_1030,"Tandang Sora, Quezon City",LTFRB_895,"Mayon Avenue, Rodriguez",01:39:33,4,90,5973.0
+LTFRB_1048,"SM Cinema,Quirino Highway, Quezon City",LTFRB_2881,"National Hwy, Muntinlupa City, Manila",02:59:38,14,108,10778.0
+LTFRB_620,"General Luis / Gold Intersection, Caloocan City",LTFRB_820,"Regalado Highway, Quezon City",00:27:22,4,23,1642.0
+LTFRB_3505,"Alexandria Ave, Antipolo City, Manila",LTFRB_3960,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",04:12:40,16,201,15160.0
+LTFRB_3868,"Fortune Tobacco Corporation, Marikina City, Manila",LTFRB_4013,"Kristong Hari Catholic Church, City of San Jose del Monte, Manila",02:59:50,10,128,10790.0
+LTFRB_1638,"Padre Burgos St / Padre Burgos Street Intersection, Manila",LTFRB_782,"Dela Costa Avenue / Mangga Intersection, Calcoocan City",01:54:18,14,83,6858.0
+LTFRB_3038,"C. Raymundo Ave, Pasig City, Manila",LTFRB_3859,"Gen. B. G. Molina St, Marikina City, Manila",00:50:10,4,39,3010.0
+LTFRB_1307,"Tinagan, Quezon City",LTFRB_2353,"Quirino Ave, Parañaque City, Manila",01:20:08,16,45,4808.0
+LTFRB_2217,"Narra, Quezon City, Manila",LTFRB_4417,"Florida, San Juan, Manila",00:24:20,4,21,1460.0
+LTFRB_1278,"Inaman / Corumi Intersection, Quezon City",LTFRB_1816,"G Tuazon / Union Civica Intersection, Manila",00:37:35,6,32,2255.0
+LTFRB_1640,"Padre Burgos St, Manila",LTFRB_1814,"G Tuazon / Gerardo Intersection, Manila",00:23:11,4,16,1391.0
+LTFRB_1628,"Bonifacio Drive, Manila",LTFRB_4130,"San Jose del Monte - Marilao Rd, Marilao, Manila",02:08:20,10,104,7700.0
+LTFRB_1444,"Rizal Avenue / Mt Samat Intersection, Quezon City",LTFRB_3950,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",02:48:03,8,145,10083.0
+LTFRB_1082,"Amianan Motors Office, Road 1, Quezon City",LTFRB_3406,"Bonifacio Ave, Cainta, Manila",01:10:48,10,49,4248.0
+LTFRB_3167,"Shaw College, Shaw Blvd, Manila",LTFRB_4409,"Greenhills Promenade Mall/Cinema, Missouri St, San Juan, Manila",00:20:59,5,17,1259.0
+LTFRB_3687,"Marian Memorial Chapels, Marcos Hwy, Antipolo City, Manila",LTFRB_460,"Sta. Maria - Tungkong Mangga Rd, City of San Jose del Monte",02:06:33,9,79,7593.0
+LTFRB_2193,"Albany, Quezon City, Manila",LTFRB_3273,"A. Sandoval Ave, Pasig City, Manila",01:03:00,7,54,3780.0
+LTFRB_1083,Road 1 / A27 Intersection Quezon City,LTFRB_4442,"Eulogio Rodriguez Sr. Ave / Don Alfredo Egea, Quezon City, Manila",00:27:39,4,20,1659.0
+LTFRB_163,"F. Balagtas, Obando",LTFRB_3266,"A. Sandoval Ave, Pasig City, Manila",02:44:22,16,129,9862.0
+LTFRB_2017,"Guerrero / Makati Ave Intersection, Makati City, Manila",LTFRB_4256,"Governor's Dv, Dasmariñas City, Manila",02:54:12,15,110,10452.0
+LTFRB_2243,"Kalayaan Ave, Quezon City, Manila",LTFRB_4645,"Kalayaan Avenue, Makati City",01:04:00,9,54,3840.0
+LTFRB_1061,"Mindanao Avenue, Quezon City",LTFRB_2985,"M. Almeda, Taguig City, Manila",01:31:56,10,79,5516.0
+LTFRB_1286,"Roosevelt Avenue / Baler Intersection, Quezon City",LTFRB_4972,Guadalupe MRT ,01:19:39,8,65,4779.0
+LTFRB_1438,"New Antipolo / Oroquieta Intersection, Quezon City",LTFRB_3631,"Marcos Hwy, Antipolo City, Manila",02:06:18,15,94,7578.0
+LTFRB_1263,"Old Samson Road, Quezon City",LTFRB_4234,"Epifanio de los Santos Av, Mandaluyong City, Manila",01:04:04,8,64,3844.0
+LTFRB_1491,"Dapitan / Antonio Maceda Intersrction, Manila",LTFRB_1790,"Arlegui, Manila",00:17:26,2,14,1046.0
+LTFRB_1441,"Ferdinand Blumentritt / Felix Huertas Intersection, Quezon City",LTFRB_19,"Mt. Carmel Medical Center, MacArthur Highway, Bocaue, Bulacan",01:40:31,9,81,6031.0
+LTFRB_2816,"South Luzon Expressway, San Pedro, Manila",LTFRB_2958,"Adia Bagumbayan Manuel L. Quezon, Taguig City, Manila",01:19:20,5,46,4760.0
+LTFRB_1801,"Arsenio H. Lacson Ave, Manila",LTFRB_463,"Grotto Driveway / Sta. Maria - Tungkong Mangga Rd Intersection, City of San Jose del Monte",02:12:20,19,86,7940.0
+LTFRB_3935,"Norzagaray-Santa Maria Rd / Pulong Buhangin Balasing Catmon Rd, Santa Maria, Manila",LTFRB_4352,"Katipunan Ave, Quezon City, Manila",03:12:07,12,150,11527.0
+LTFRB_1263,"Old Samson Road, Quezon City",LTFRB_4630,"Multinational Avenue, Paranaque City",01:16:36,14,55,4596.0
+LTFRB_1632,"Antonio C. Delgado, Manila",LTFRB_841,"Commonwealth Avenue, Quezon City",01:31:16,13,64,5476.0
+LTFRB_1048,"SM Cinema,Quirino Highway, Quezon City",LTFRB_4013,"Kristong Hari Catholic Church, City of San Jose del Monte, Manila",02:06:51,9,91,7611.0
+LTFRB_1840,"S.Veloso / Aurora Blvd Intersection, San Juan",LTFRB_3870,"Eulogio Rodriguez Jr Ave, Quezon City, Manila",00:34:35,5,22,2075.0
+LTFRB_4262,"Roxas Blvd / Dapitan, Manila",LTFRB_578,"Camarin Road / Sampaguita Intersection, Caloocan City",02:03:59,8,92,7439.0
+LTFRB_456,"College of St Anthony, Quirino Highway, City of San Jose del Monte",LTFRB_722,"Maysan Road, Valenzuela City",01:38:56,8,73,5936.0
+LTFRB_1583,"Ricafort, Manila",LTFRB_4267,"Skyway, Makati City, Manila",00:40:07,5,26,2407.0
+LTFRB_1981,"Epifanio de los Santos Avenue / McKinley Rd Intersection, Makati City, Manila",LTFRB_2703,"Queen's Land St / Area ""A"" Rd INtersection, Bacoor City, Manila",01:51:43,10,79,6703.0
+LTFRB_2323,"Russel Avenue, Lungsod ng Pasay, Manila",LTFRB_603,"St Luke's School, Susano, Caloocan City",01:59:22,13,83,7162.0
+LTFRB_2552,"Molino Rd, Bacoor City, Manila",LTFRB_930,"Gen. A Luna, San Mateo",03:47:08,18,157,13628.0
+LTFRB_1036,"Tandang Sora, Quezon City",LTFRB_1911,"Zobel Roxas Ave / Madre Perla Intersection, Manila",01:36:26,10,74,5786.0
+LTFRB_2857,"National Hwy, San Pedro, Manila",LTFRB_902,"Un- named Road, Rodriguez",04:11:41,15,209,15101.0
+LTFRB_2354,"Quirino Ave, Parañaque City, Manila",LTFRB_4740,"Belen, Quezon City",Infinite,-1,0,inf
+LTFRB_4635,"Del Rosa Street, Makati City",LTFRB_565,"Zabarte Road / Zabarte Ext. Intersection, Caloocan City",02:00:35,17,75,7235.0
+LTFRB_1328,"Dapitan / Kanlaon Intersection, Quezon City",LTFRB_958,"Batasan - San Mateo, Quezon City",01:13:59,8,49,4439.0
+LTFRB_2449,"Emilio Aguinaldo Hwy, Lungsod ng Dasmariñas, Manila",LTFRB_599,"United Methodist Church, Susano, Caloocan City",04:18:05,15,172,15485.0
+LTFRB_3021,"Dr Sixto Antonio Ave / N Espiritu St, Pasig City, Manila",LTFRB_3555,"C. Lawis St,  Antipolo City, Manila",01:12:34,8,78,4354.0
+LTFRB_4261,"Roxas Blvd / R.Layug, Manila",LTFRB_448,"San Jose Water District, Un-named Road, City of San Jose del Monte",02:55:14,14,113,10514.0
+LTFRB_1704,"Roxas Blvd / Pablo Ocampo Sr., Manila",LTFRB_3198,"Firefly / Green Meadows Ave Intersection, Pasig City, Manila",01:01:20,9,37,3680.0
+LTFRB_2399,"Ninoy Aquino International Airport, Departures Ramp, Lungsod ng Pasay, Manila",LTFRB_2709,"South Luzon Expressway, Muntinlupa City, Manila",01:20:40,4,48,4840.0
+LTFRB_3079,"5th Avenue, Taguig City, Manila",LTFRB_3444,"Ortigas Avenue Extension, Cainta, Manila",01:00:43,6,47,3643.0
+LTFRB_3323,"Quezon Ave, Angono, Manila",LTFRB_3879,"Eulogio Rodriguez Jr. Ave, Quezon City, Manila",01:07:45,6,54,4065.0
+LTFRB_210,"Sacristan / C. Arellano Road Intersection, Malabon City",LTFRB_2436,"Emilio Aguinaldo Hwy, Imus, Manila",03:00:29,16,113,10829.0
+LTFRB_579,"Camarin Road, Caloocan City",LTFRB_795,"Lagro Elementary School, Ascencion Avenue, Quezon City",00:35:16,4,31,2116.0
+LTFRB_2107,"Tomas Morato Ave / Scout De Guia Intersection, Quezon City, Manila",LTFRB_2384,"Dr Arcadio Santos Ave / Filipinas Ave Intersection, Parañaque City, Manila",01:59:40,12,66,7180.0
+LTFRB_1935,"Don Chino Roces Avenue / Pryce Center, Makati City",LTFRB_3320,"A Bonifacio Blvd / Manila East Rd, Binangonan, Manila",01:55:02,11,78,6902.0
+LTFRB_2011,"Kamagong / Sacred Heart St, Makati City, Manila",LTFRB_4393,"Olympic Ave, Caloocan City, Manila",02:25:01,16,99,8701.0
+LTFRB_2881,"National Hwy, Muntinlupa City, Manila",LTFRB_4034,"Quirino Highway, City of San Jose del Monte, Manila",04:40:08,24,156,16808.0
+LTFRB_2531,"Molino Rd, Bacoor City, Manila",LTFRB_3483,"Quezon Ave, Teresa, Manila",03:31:13,18,157,12673.0
+LTFRB_2029,"Coronado, Mandaluyong City, Manila",LTFRB_4069,"Unnamed Road, City of San Jose del Monte, Manila",03:21:27,13,161,12087.0
+LTFRB_1351,"N. S. Amoranto Sr. Avenue / Sto. Domingo Avenue Intersection, Quezon City",LTFRB_540,"Zapote Street / Durian Street Intersection, Caloocan City",01:26:36,16,67,5196.0
+LTFRB_3440,"Ortigas Avenue Extension, Cainta, Manila",LTFRB_3774,"F. Calderon, Marikina City, Manila",00:31:11,2,28,1871.0
+LTFRB_176,"F. Navarette Street, Malabon City",LTFRB_4468,"Vista Verde Ave Extension 2 / Unnamed Rd, Caita, Manila",01:57:36,16,87,7056.0
+LTFRB_1752,"L.Francisco, Lungsod ng Pasay",LTFRB_680,"Maycauayan Camalig, City of Meycauayan",02:12:01,9,96,7921.0
+LTFRB_4022,"Dr Eduardo V. Roquero Sr. Rd, City of San Jose del Monte, Manila",LTFRB_4271,"South Luzon Expressway, Makati City, Manila",03:33:28,14,156,12808.0
+LTFRB_4181,"Congressional Rd / Rizal Av, General Mariano Alvarez, Manila",LTFRB_4825,"M H del Pilar Street, Rodriguez",04:55:42,15,220,17742.0
+LTFRB_1364,"Quezon Avenue, Quezon City",LTFRB_610,"Gold / Platinum Intersection, Caloocan City",01:06:38,9,50,3998.0
+LTFRB_1087,"Road 3, Quezon City",LTFRB_3303,"J.P. Rizal Ave, Binangonan, Manila",02:33:21,15,107,9201.0
+LTFRB_4166,"North Luzon Expressway, Marilao, Manila",LTFRB_483,"Our Lady of the Star Nursery, St Joseph, City of San Jose del Monte",02:17:00,10,87,8220.0
+LTFRB_2218,"Narra, Quezon City, Manila",LTFRB_3146,"Dr Jose P. Rizal Extension / T. Alonzo St Intersection, Makati City, Manila",00:53:12,8,46,3192.0
+LTFRB_1750,"P. Villanueva, Lungsod ng Pasay",LTFRB_1936,"M. dela Cruz St / Esguerra St Intersection, Lungsod ng Pasay, Manila",00:10:38,2,9,638.0
+LTFRB_3224,"F.Manalo / Gen.Natividad Intersection, Taguig City, Manila",LTFRB_493,"Un named Road near Tatak Kubo, Caloocan City",02:36:19,20,126,9379.0
+LTFRB_356,"Emilio Jacinto Elementary School, Velasquez, Tondo",LTFRB_4444,"Lantana St / Monte de Piedad St, Quexon City, Manila",00:51:31,8,38,3091.0
+LTFRB_1418,"Dimasalang / Aurora Boulevard Intersection, Quezon City",LTFRB_2958,"Adia Bagumbayan Manuel L. Quezon, Taguig City, Manila",01:56:01,11,83,6961.0
+LTFRB_165,"J. P Rizal, Obando",LTFRB_825,Commonwealth Avenue / Mindanao Drive Intersection Quezon City,02:10:10,13,99,7810.0
+LTFRB_3601,"Our Lady of Fatima University, Sumulong Hwy, Antipolo City, Manila",LTFRB_3720,"Old Robinsons Mall, Pambuli, Cainta, Manila",00:33:04,3,25,1984.0
+LTFRB_402,"P. Rada / Carman Planas Intersection, Manila",LTFRB_919,"G A Luna / Col S Cruz Street Intersection, Rodriguez",02:13:56,16,102,8036.0
+LTFRB_1589,"Sto. Cristo / Claro M. Recto Ave Intersection, Manila",LTFRB_932,"Gen. A Luna / Curayao Intersection, San Mateo",01:55:42,12,84,6942.0
+LTFRB_1885,"President Quirino Ave / J. Zamora St, Manila",LTFRB_2517,"I. Mangubat St / Emilio Aguinaldo Hwy Intersection, Lungsod ng Dasmariñas, Manila",02:39:21,11,90,9561.0
+LTFRB_1116,"North Luzon Expressway, Valenzuela City",LTFRB_1349,"Banawe Avenue, Quezon City",00:54:21,8,35,3261.0
+LTFRB_2640,"Yellow Station, South Station Complex Spectrum Midway Extension,  Muntinlupa City, Manila",LTFRB_3310,"Manila East Rd, Binangonan, Manila",03:07:53,9,148,11273.0
+LTFRB_1742,"Epifanio de los Santos Avenue, Lungsod ng Pasay",LTFRB_4719,"Gen Ordonez Ave, Marikina City",01:45:12,11,67,6312.0
+LTFRB_2065,"Boni Ave / Sto Rosario Intersection, Mandaluyong City, Manila",LTFRB_3336,"Baytown, Angono, Manila",01:25:44,9,54,5144.0
+LTFRB_313,"C. Cordero Street / 5th Avenue West Intersection, Caloocan City",LTFRB_3666,"Un-named road near Marcos Hwy, Antipolo City, Manila",02:13:12,15,107,7992.0
+LTFRB_1126,"North Luzon Expressway, Valenzuela City",LTFRB_2178,"Aurora Blvd / General Aguinaldo Ave Intersection, Quezon City, Manila",00:54:34,7,47,3274.0
+LTFRB_3363,"E Bank Rd, Cainta, Manila",LTFRB_3444,"Ortigas Avenue Extension, Cainta, Manila",00:29:35,1,30,1775.0
+LTFRB_458,"C.E.M Bus Station, Quirino Highway, City of San Jose del Monte",LTFRB_4587,"Commerce Avenue, Ayala Alabang Village, Montinlupa City",04:09:17,27,151,14957.0
+LTFRB_3077,"Lawton Ave, Taguig City, Manila",LTFRB_4118,"San Jose del Monte - Marilao Rd, Marilao, Manila",02:54:58,16,124,10498.0
+LTFRB_2029,"Coronado, Mandaluyong City, Manila",LTFRB_501,"Langit Road / Luwalhati Street Intersection, Caloocan City",02:26:43,21,104,8803.0
+LTFRB_1521,"España Blvd / Quezon Blvd  Intersection, Manila",LTFRB_3281,"The Medical City, Pasig City, Manila",00:49:34,3,16,2974.0
+LTFRB_2141,"Natib, Quezon City, Manila",LTFRB_4610,"Sampaguita, Bacoor City",02:44:13,17,118,9853.0
+LTFRB_1901,"Singalong, Manila",LTFRB_4364,"Katipunan Ave, Quezon City, Manila",01:13:35,9,32,4415.0
+LTFRB_2659,"Alabang-Zapote Road, Las Piñas City, Manila",LTFRB_4310,"26th St, Taguig City, Manila",01:50:35,8,78,6635.0
+LTFRB_1272,"Kaingin Road, Quezon City",LTFRB_4300,"Plaza Pacita Bus Terminal, National Highway / Pacita Av, San Pedro, Manila",03:07:40,23,91,11260.0
+LTFRB_1528,"Oroquieta, Manila",LTFRB_1866,"F Y Manalo, Manila",00:33:49,3,16,2029.0
+LTFRB_1937,"M. dela Cruz St / 16th De Agosto Intersection, Lungsod ng Pasay, Manila",LTFRB_4515,"Tuazon Ave / Araneta Ave, Malabon City, Manila",01:14:41,11,54,4481.0
+LTFRB_2316,"Manila-Cavite Expressway, Las Piñas City, Manila",LTFRB_3831,"E Santos / Bayan-Bayanan Avenue Intersection, Marikina City, Manila",02:09:16,13,78,7756.0
+LTFRB_1274,"Kaingin Road, Quezon City",LTFRB_751,"Quirino Highway, Calcoocan City",01:39:27,14,68,5967.0
+LTFRB_1104,"Himlayan Road / Cartier Intersection, Quezon City",LTFRB_2497,"Emilio Aguinaldo Hwy, Lungsod ng Dasmariñas, Manila",03:34:16,20,140,12856.0
+LTFRB_1689,"Leon Guinto Sr., Manila",LTFRB_3699,"Marcos Hwy, Pasig City, Manila",01:09:24,10,48,4164.0
+LTFRB_3685,"Marcos Hwy, Antipolo City, Manila",LTFRB_4911,"Gov W Pascual Ave, Malabon City",01:48:47,13,72,6527.0
+LTFRB_125,"Dental Clinic, New Bypass Road, Santa Maria",LTFRB_1852,"Pinaglabanan, San Juan, Manila",02:27:42,15,102,8862.0
+LTFRB_1936,"M. dela Cruz St / Esguerra St Intersection, Lungsod ng Pasay, Manila",LTFRB_4662,"Senator Neptali A Gonzales St, Mandaluyong City",00:45:25,9,27,2725.0
+LTFRB_4016,"Sapang Palay, City of San Jose del Monte, Manila",LTFRB_4645,"Kalayaan Avenue, Makati City",03:46:56,22,179,13616.0
+LTFRB_4636,"Legazpi Street, Makati City",LTFRB_4651,"Nueve du Febrero, Mandaluyong City",00:46:42,8,28,2802.0
+LTFRB_4336,"United Nations Ave / President Quirino Ave Ext, Manila",LTFRB_540,"Zapote Street / Durian Street Intersection, Caloocan City",01:50:32,19,75,6632.0
+LTFRB_1678,"Gen M Malvar / Luis Maria Guerero St Intersection, Manila",LTFRB_326,"Teodoro, Caloocan City",00:41:37,10,29,2497.0
+LTFRB_2882,"South Luzon Expressway, Muntinlupa City, Manila",LTFRB_4686,"Gregorio Araneta Ave, Quezon City",01:45:41,10,46,6341.0
+LTFRB_575,"Camarin Road, Caloocan City",LTFRB_679,"Maycauayan Camalig, City of Meycauayan",01:15:27,5,63,4527.0
+LTFRB_2967,"M. L. Quezon St, Taguig City, Manila",LTFRB_861,"Payatas Road, Quezon City",02:29:56,11,123,8996.0
+LTFRB_2338,"Quirino Ave / Bayview Drive Intersection, Parañaque City, Manila",LTFRB_2592,"Paliparan Rd, Lungsod ng Dasmariñas, Manila",01:59:02,5,94,7142.0
+LTFRB_1491,"Dapitan / Antonio Maceda Intersrction, Manila",LTFRB_3153,"Dr Jose P. Rizal Extension / 10th Ave Intersection, Makati City, Manila",01:05:23,7,37,3923.0
+LTFRB_3443,"Ortigas Avenue Extension, Cainta, Manila",LTFRB_836,"Commonwealth Avenue / Fairlane Intersection, Quezon City",01:30:32,7,65,5432.0
+LTFRB_1678,"Gen M Malvar / Luis Maria Guerero St Intersection, Manila",LTFRB_3363,"E Bank Rd, Cainta, Manila",01:19:57,8,46,4797.0
+LTFRB_1474,"Lacson Avenue, Manila",LTFRB_1806,"G Tuazon, Manila",00:12:57,1,11,777.0
+LTFRB_4074,"Unnamed Road, City of San Jose del Monte, Manila",LTFRB_790,"Polytechnic School, Quirino Highway, Quezon City",02:02:34,3,102,7354.0
+LTFRB_1583,"Ricafort, Manila",LTFRB_4567,"Daang Reyna / Southvale Drive, Montinlupa City",02:21:37,15,56,8497.0
+LTFRB_2243,"Kalayaan Ave, Quezon City, Manila",LTFRB_4082,"Sarmiento Memorial Park, City of San Jose del Monte, Manila",02:38:03,10,127,9483.0
+LTFRB_3107,"Kalayaan Ave / Gen. Jacinto St Intersection, Taguig City, Manila",LTFRB_380,"Don Bosco Tondo Soccer Field, Radial Road 10, Manila",01:06:01,11,39,3961.0
+LTFRB_1034,"New Era High School, Tandang Sora, Quezon City",LTFRB_1669,"Marcelo H. del Pilar / Sinagoga Intersection, Manila",01:21:51,13,67,4911.0
+LTFRB_1609,"Juan Luna, Manila",LTFRB_2370,"Ninoy Aquino Ave, Parañaque City, Manila",01:04:13,11,44,3853.0
+LTFRB_215,"Malabon Public Market, Estrella, Malabon City",LTFRB_4087,"Kairos Hospital, City of San Jose del Monte, Manila",02:27:31,5,122,8851.0
+LTFRB_1640,"Padre Burgos St, Manila",LTFRB_4028,"Santo Rosario College, City of San Jose del Monte, Manila",03:07:46,13,133,11266.0
+LTFRB_2009,"South Ave / Pablo Ocampo Sr. Extension, Makati City, Manila",LTFRB_2515,"Emilio Aguinaldo Hwy, Silang, Manila",03:10:57,14,127,11457.0
+LTFRB_2249,"East Ave, Quezon City, Manila",LTFRB_3818,"E Rodriguez Ave / E Mendoza St Intersection, Marikina City, Manila",00:40:37,7,31,2437.0
+LTFRB_1143,"Malolos Avenue / Makaneneng Intersection, Caloocan City",LTFRB_2188,"Republican College, 18th Avenue, Quezon City, Manila",01:00:07,10,49,3607.0
+LTFRB_3862,"Lawaan St / C.M. Recto St Intersection, Marikina City, Manila",LTFRB_4586,"Commerce Avenue, Montinlupa City",02:41:57,9,124,9717.0
+LTFRB_1132,"North Luzon Expressway, Caloocan City",LTFRB_1899,"President Quirino Ave / Angel Linao Intersection, Manila",01:00:55,10,33,3655.0
+LTFRB_1123,"North Luzon Expressway / Mindanao Avenue, Valenzuela City",LTFRB_3870,"Eulogio Rodriguez Jr Ave, Quezon City, Manila",01:15:03,9,60,4503.0
+LTFRB_3413,"Marlo Dr / Ortigas Avenue Extension Intersection, Cainta, Manila",LTFRB_4682,"J Fajardo, Manila City",01:24:41,11,52,5081.0
+LTFRB_2282,"Manuel A Roxas High School, Scout Chuatoco, Quezon City, Manila",LTFRB_2495,"Emilio Aguinaldo Hwy, Lungsod ng Dasmariñas, Manila",02:59:04,17,103,10744.0
+LTFRB_4674,"Plaza Santa Cruz, Manila City",LTFRB_777,"Dela Costa Avenue, Calcoocan City",01:55:01,14,87,6901.0
+LTFRB_3188,"ADB Ave, Pasig City, Manila",LTFRB_3901,"Santa Maria Bypass Rd, Santa Maria, Manila",02:55:28,10,131,10528.0
+LTFRB_2466,"Manila-Cavite Expy, Bacoor City, Manila",LTFRB_4492,"T.M. Kalaw, Manila",01:01:52,4,34,3712.0
+LTFRB_244,"Heart of Mary Villa Convent, Malabon City",LTFRB_708,"Un named Road, Marilao",01:56:36,4,97,6996.0
+LTFRB_2514,"Emilio Aguinaldo Hwy, Silang, Manila",LTFRB_3962,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",05:56:44,16,241,21404.0
+LTFRB_2050,"Shaw Blvd / Luna Mencias Intersection, Mandaluyong City, Manila",LTFRB_4323,"Ozzy Car Spa, Bautista / Calatang, Makati City, Manila",00:41:46,7,27,2506.0
+LTFRB_1432,"Pampanga / Pedro Guevarra Intersection, Quezon City",LTFRB_4562,"Daang Reyna, Montinlupa City",02:39:13,17,67,9553.0
+LTFRB_784,"Quirino Highway, Calcoocan City",LTFRB_918,"MH del Pilar Street, Rodriguez",01:28:22,7,74,5302.0
+LTFRB_2343,"Domestic Rd, Lungsod ng Pasay, Manila",LTFRB_3850,"Olive St, Marikina City, Manila",02:04:35,16,85,7475.0
+LTFRB_2396,"NAIA Rd, Parañaque City, Manila",LTFRB_3204,"Lanuza Ave, Pasig City, Manila",01:11:18,13,40,4278.0
+LTFRB_1584,"Dagupan, Manila",LTFRB_3217,"F.Manalo, Taguig City, Manila",01:26:15,8,54,5175.0
+LTFRB_3032,"Dr Sixto Antonio Ave, Pasig City, Manila",LTFRB_3348,"Eastgate Ave, Taytay, Manila",00:39:33,3,28,2373.0
+LTFRB_4329,"Lorrie's Kitchenette, San Marcelino / T.M. Kalaw, Manila",LTFRB_453,"Quirino Highway, City of San Jose del Monte",02:31:18,14,101,9078.0
+LTFRB_1063,"Mindanao Avenue / Tanding Sora Avenue Intersection, Quezon City",LTFRB_1955,"Skyway, Makati City, Manila",01:33:22,11,75,5602.0
+LTFRB_262,"Lapu-lapu, Malabon City",LTFRB_3488,"Roman Rojas Rd, Teresa, Manila",02:35:59,18,136,9359.0
+LTFRB_1578,"Dagupan / Arqueros Intersection, Manila",LTFRB_4752,"SM Fairview, Quezon City",01:32:20,14,75,5540.0
+LTFRB_3664,"Marcos Hwy, Antipolo City, Manila",LTFRB_606,"Susano / Austria Intersection, Caloocan City",01:47:37,6,79,6457.0
+LTFRB_1410,"Andres Bonifacio / Magnas Intersection, Quezon City",LTFRB_4799,"Sta Maria Tungkong Mangga Road, City of San Jose del Monte",Infinite,-1,0,inf
+LTFRB_2180,"Columbia / Yale Intersection, Quezon City, Manila",LTFRB_3353,"E Bank Rd, Taytay, Manila",01:04:36,5,46,3876.0
+LTFRB_4364,"Katipunan Ave, Quezon City, Manila",LTFRB_886,"Mayon Avenue, Rodriguez",01:31:09,3,78,5469.0
+LTFRB_3367,"E Bank Rd, Pasig City, Manila",LTFRB_4826,"M H del Pilar Street, Rodriguez",01:54:30,7,96,6870.0
+LTFRB_1446,"Jose Abad Santos Avenue / Corregidor Intersection, Quezon City",LTFRB_3998,"Santa Maria San Jose Rd, Santa Maria, Manila",02:56:58,8,145,10618.0
+LTFRB_2534,"Molino Rd, Bacoor City, Manila",LTFRB_4353,"Katipunan Ave, Quezon City, Manila",02:45:55,15,102,9955.0
+LTFRB_4225,"Epifanio de los Santos Av / White Plains Av, Mandaluyong City, Manila",LTFRB_4785,"Glen T de Leon, Valenzuela City",Infinite,-1,0,inf
+LTFRB_3457,"Manila East Rd, Tatay, Manila",LTFRB_3607,"Sumulong Hwy, Antipolo City, Manila",00:55:23,6,53,3323.0
+LTFRB_3355,"E Bank Rd, Taytay, Manila",LTFRB_4315,"Track 30th, 30th St, Taguig City, Manila",01:03:26,5,41,3806.0
+LTFRB_3432,"Ortigas Ave / E Bank Rd Intersection, Pagis City, Manila",LTFRB_4582,"Avacia Avenue, Montinlupa City",02:00:45,8,92,7245.0
+LTFRB_1107,"Ambuklao, Quezon City",LTFRB_3005,"A. Luna St, Pasig City, Manila",01:18:05,9,62,4685.0
+LTFRB_138,"Polo Market, Poblacion Road, Valenzuela City",LTFRB_946,"Gen. A Luna, San Mateo",02:09:11,11,98,7751.0
+LTFRB_3509,"Milagros Ave / James' Cricle, Antipolo City, Manila",LTFRB_907,"Montalban Highway / R Reyes Street Intersection near Montalban Town Centre, Rodriguez",02:16:25,9,123,8185.0
+LTFRB_1242,"Epifanio de los Santos Avenue / Bansalangin Intersection, Quezon City",LTFRB_1293,"Roosevelt Avenue / Road B Intersection, Quezon City",00:05:06,2,5,306.0
+LTFRB_1540,"Rizal Avenue, Manila",LTFRB_1664,"Mayfair Tower, United Nations Ave, Manila",00:16:01,4,11,961.0
+LTFRB_2545,"Molino Rd, Bacoor City, Manila",LTFRB_3821,"Opal St / Diamond St Intersection, Marikina City, Manila",02:53:23,14,111,10403.0
+LTFRB_3251,"Market Ave, Pasig City, Manila",LTFRB_4575,"Daang Reyna, Montinlupa City",01:51:36,9,82,6696.0
+LTFRB_3656,"Marcos Hwy, Antipolo City, Manila",LTFRB_4130,"San Jose del Monte - Marilao Rd, Marilao, Manila",02:52:06,12,124,10326.0
+LTFRB_1512,"Gen. Concepcion / Laong Laan Intersection, Manila",LTFRB_2192,"Ermin Garcia Ave / Albany Intersection, Quezon City, Manila",00:46:56,7,37,2816.0
+LTFRB_2043,"J. Luna / Pinagtipunan Intersection, Mandaluyong City, Manila",LTFRB_4586,"Commerce Avenue, Montinlupa City",02:03:43,12,52,7423.0
+LTFRB_2252,"East Ave, Quezon City, Manila",LTFRB_4201,"Epifanio de los Santos Av, Quezon City, Manila",00:06:16,1,8,376.0
+LTFRB_2654,"Alabang-Zapote Road / Southmall Access Rd Intersection, Muntinlupa City, Manila",LTFRB_3565,"General Luna St, Antipolo City, Manila",03:00:09,13,156,10809.0
+LTFRB_2740,"South Luzon Expressway, Biñan City, Manila",LTFRB_534,"Ilang - Ilang, Caloocan City",04:43:43,26,151,17023.0
+LTFRB_1275,"Tuktukan / Corumi Intersection, Quezon City",LTFRB_1732,Antonio Arnaiz Ave / F.B. Harrison St Intersection,01:04:22,13,42,3862.0
+LTFRB_1475,"Antipolo, Manila",LTFRB_4603,"Spectrum Midway Extension, Montinlupa City",02:02:14,12,41,7334.0
+LTFRB_1514,"Juaning / Dapitan Intersection, Manila",LTFRB_1669,"Marcelo H. del Pilar / Sinagoga Intersection, Manila",00:22:57,6,16,1377.0
+LTFRB_2128,"Ermin Garcia Ave, Quezon City, Manila",LTFRB_2562,"Molino Rd, Bacoor City, Manila",02:44:36,19,124,9876.0
+LTFRB_3146,"Dr Jose P. Rizal Extension / T. Alonzo St Intersection, Makati City, Manila",LTFRB_4321,"Bautista / Ampere, Makati City, Manila",00:42:13,6,33,2533.0
+LTFRB_1481,"Oroquieta, Manila",LTFRB_1793,"Tuberias, Manila",00:15:41,2,13,941.0
+LTFRB_122,"Green Pond Chinese Resturant, Governor Fortunato Halili Avenue, Bocaue",LTFRB_1697,"Taft Avenue, Manila",02:28:17,13,93,8897.0
+LTFRB_3440,"Ortigas Avenue Extension, Cainta, Manila",LTFRB_4616,"Multinational Avenue, Paranaque City",Infinite,-1,0,inf
+LTFRB_1459,"Jose Abad Santos Avenue / Tayuman Road, Quezon City",LTFRB_4110,"San Jose del Monte - Marilao Rd, Marilao, Manila",02:01:26,5,99,7286.0
+LTFRB_2918,"Legaspi, Manila",LTFRB_3318,"Manila East Rd, Binangonan, Manila",02:08:44,12,83,7724.0
+LTFRB_1806,"G Tuazon, Manila",LTFRB_4384,"Congressional Road Extension / Union Dr, Caloocan City, Manila",01:38:11,14,75,5891.0
+LTFRB_1293,"Roosevelt Avenue / Road B Intersection, Quezon City",LTFRB_4455,"Gen. A Luna St, Taguig City, Manila",01:26:07,11,76,5167.0
+LTFRB_3411,"Vista St, Cainta, Manila",LTFRB_4182,"Congressional Rd, General Mariano Alvarez, Manila",03:28:27,8,152,12507.0
+LTFRB_2443,"Emilio Aguinaldo Hwy, Lungsod ng Dasmariñas, Manila",LTFRB_3259,"Mercedes Ave, Pasig City, Manila",03:14:23,14,135,11663.0
+LTFRB_1188,"Baesa Road / Roxas Intersection, Quirino Highway, Quezon City",LTFRB_967,"IBP Road, Quezon City",01:20:31,7,67,4831.0
+LTFRB_1600,"T. Mapua, Manila",LTFRB_2701,"Everlasting St, Bacoor City, Manila",02:05:08,12,76,7508.0
+LTFRB_336,"North Bay Boulevard, Tondo",LTFRB_417,"Del Monte / Quirino Highway Intersection, City of San Jose del Monte",02:45:17,12,114,9917.0
+LTFRB_3402,"Elementary School, Cainta, Manila",LTFRB_4052,"Unnamed Road Near Quirino Highway, City of San Jose del Monte, Manila",03:07:24,8,120,11244.0
+LTFRB_461,"Sta. Maria - Tungkong Mangga Rd / Quirino Highway Intersection, City of San Jose del Monte",LTFRB_4739,"Masaya, Quezon City",Infinite,-1,0,inf
+LTFRB_2274,"Roxas Ave, Quezon City, Manila",LTFRB_401,"Union Bank of Philippines, Juan Luca, Manila",01:11:28,12,56,4288.0
+LTFRB_1229,"Congressional Avenue, Quezon City",LTFRB_2658,"Unilever, Alabang-Zapote Road, Las Piñas City, Manila",02:31:41,17,99,9101.0
+LTFRB_3400,"Marketplace, Cainta, Manila",LTFRB_438,"Quirino Highway, City of San Jose del Monte",02:56:37,10,109,10597.0
+LTFRB_2069,"P.Oliveros, Mandaluyong City, Manila",LTFRB_4506,"JCSGO Caloocan, Rizal Ave / 6th Ave West, Caloocan City, Manila",01:05:13,8,36,3913.0
+FORT_4,"Net Cube, Taguig City",LTFRB_3545,"Ortigas Avenue Extension, Tatay, Manila",01:33:45,8,62,5625.0
+LTFRB_1737,"Epifanio de los Santos Avenue, Lungsod ng Pasay",LTFRB_3202,"Lanuza Ave, Pasig City, Manila",00:56:47,9,27,3407.0
+LTFRB_3347,"Eastgate Ave, Taytay, Manila",LTFRB_4794,"Sta Maria Tungkong Mangga Road, City of San Jose del Monte",Infinite,-1,0,inf
+LTFRB_1502,"Ramon Magsaysay High School, Espana Boulevard, Manila",LTFRB_2187,"18th Ave, Quezon City, Manila",00:40:31,5,29,2431.0
+LTFRB_1455,"Jose Abad Santos Avenue, Quezon City",LTFRB_4011,"Sapang Palay - Muzon Road, City of San Jose del Monte, Manila",03:10:24,14,143,11424.0
+EDSA_1,EDSA Carousel Bus Stop - Roosevelt,LTFRB_229,"Immaculate Memorial Garden, Gov. Pascual, City of Navotas",Infinite,-1,0,inf
+LTFRB_3558,"Dela Paz St / A. Masangkay St Intersection,  Antipolo City, Manila",LTFRB_3835,"Gen. B. G. Molina, Marikina City, Manila",01:18:27,3,70,4707.0
+LTFRB_2689,"Un-named road near Alvarez Extension, Las Piñas City, Manila",LTFRB_4422,"Col. Bonny Serrano Ave, Quezon City, Manila",Infinite,-1,0,inf
+LTFRB_1445,"Jose Abad Santos Avenue / Morong Intersection, Quezon City",LTFRB_4773,"Teofilo Samson Road, Caloocan City",01:19:28,9,67,4768.0
+LTFRB_3851,"Olive St, Marikina City, Manila",LTFRB_99,"MacArthur Highway / Lazones Intersection, Malabon City",01:34:10,10,68,5650.0
+LTFRB_1882,"President Quirino Ave. Ext / Paz St Intersection, Manila",LTFRB_3716,"Felix Ave / V.V. Soliven Avenue I Intersection, Cainta, Manila",01:17:57,10,37,4677.0
+LTFRB_2597,"Dlshsi College of Medicine, Congressional Rd, Lungsod ng Dasmariñas, Manila",LTFRB_4185,"Congressional Rd, General Mariano Alvarez, Manila",03:32:07,6,134,12727.0
+LTFRB_1510,"Alfonso Mendoza, Manila",LTFRB_4292,"Korean International School, Upper McKinley Rd, Taguig City, Manila",01:14:01,10,46,4441.0
+LTFRB_1396,"Quezon Avenue / Sgt. Esguerra Intersection, Quezon City",LTFRB_4773,"Teofilo Samson Road, Caloocan City",01:04:08,11,51,3848.0
+LTFRB_2163,"15th Ave / Col. Bonny Serrano Intersection, Quezon City, Manila",LTFRB_3903,"Santa Maria Bypass Rd, Santa Maria, Manila",02:36:04,9,110,9364.0
+LTFRB_2524,"Molino Rd, Bacoor City, Manila",LTFRB_3463,"Manila East Rd, Tatay, Manila",02:31:57,13,101,9117.0
+LTFRB_1963,"A. Arnaiz Ave / Pasay Road Intersection, Makati City, Manila",LTFRB_4197,"MMDA EDSA-Central Terminal Bus Station Northbound, Quezon City, Manila",01:08:47,12,38,4127.0
+LTFRB_1041,"Visayas Avenue / Congressional Avenue Extension, Quezon City",LTFRB_4605,"Almond Drive, Bacoor City",03:10:43,21,128,11443.0
+LTFRB_3915,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",LTFRB_486,"St Joseph, City of San Jose del Monte",02:33:30,4,134,9210.0
+LTFRB_1053,"Quirino Highway / T. Carreon Intersection, Quezon City",LTFRB_999,"Commonwealth Avenue, Quezon City",00:47:41,4,37,2861.0
+LTFRB_1449,"T Bugallon Street, Quezon City",LTFRB_3457,"Manila East Rd, Tatay, Manila",01:43:36,8,70,6216.0
+LTFRB_1807,"G Tuazon / Vicente G Cruz Intersection, Manila",LTFRB_1885,"President Quirino Ave / J. Zamora St, Manila",00:20:11,5,12,1211.0
+LTFRB_1090,"Road 3 / Road 5 Intersection, Quezon City",LTFRB_1800,"M. Arenas, Manila",00:58:16,10,50,3496.0
+LTFRB_3094,"McKinley Pkwy, Taguig City, Manila",LTFRB_4814,"R Mercado Street, Santa Maria",Infinite,-1,0,inf
+LTFRB_1727,"Dominga St, Lungsod ng Pasay",LTFRB_222,"Church of Jesus Christ of Latter-Day Saints, M. Naval, City of Navotas",01:06:38,9,45,3998.0
+LTFRB_1858,"Mag J A santos, Manila",LTFRB_4949,Quirino Ave LRT,Infinite,-1,0,inf
+LTFRB_1663,"Robinson's Place Residences II, Padre Faura, Manila",LTFRB_3634,"Marcos Hwy, Antipolo City, Manila",02:08:29,15,94,7709.0
+LTFRB_1596,"Soler St / Reina Regente Intersection, Manila",LTFRB_3489,"Roman Rojas Rd, Teresa, Manila",02:20:45,9,105,8445.0
+LTFRB_219,"Governor Pascual, City of Navotas",LTFRB_4826,"M H del Pilar Street, Rodriguez",02:37:17,11,128,9437.0
+EDSA_3,EDSA Carousel Bus Stop - Ayala,LTFRB_3974,"Santa Maria San Jose Rd, Santa Maria, Manila",Infinite,-1,0,inf
+LTFRB_2135,"Dona Juana S. Rodriguez Ave, Quezon City, Manila",LTFRB_3920,"Norzagaray-Santa Maria Rd / Magasawang Sapa Rd, Santa Maria, Manila",02:52:18,9,127,10338.0
+LTFRB_2698,"GSIS Rd, Bacoor City, Manila",LTFRB_3380,"Manila Road East, Taytay, Manila",03:14:13,15,125,11653.0
+LTFRB_2420,"Tirona Hwy, Bacoor City, Manila",LTFRB_3619,"Marcos Hwy, Antipolo City, Manila",03:38:42,15,146,13122.0
+LTFRB_1211,"General Avenue, Quezon City",LTFRB_27,"MacArthur Highway, Marilao",01:34:48,10,77,5688.0
+LTFRB_2007,"Zapote / Kalayaan Ave, Makati City, Manila",LTFRB_4320,"Bautista, Makati City, Manila",00:21:25,6,17,1285.0
+LTFRB_2820,"South Luzon Expressway, Biñan City, Manila",LTFRB_3913,"Norzagaray-Santa Maria Rd / Celestino, Santa Maria, Manila",05:09:39,19,185,18579.0
+LTFRB_2564,"Molino-Paliparan Rd, Bacoor City, Manila",LTFRB_3605,"Sumulong Hwy, Antipolo City, Manila",03:27:55,14,130,12475.0
+LTFRB_3368,"E Bank Rd, Pasig City, Manila",LTFRB_3877,"Olympic Badminton Club, Quezon City, Manila",00:17:33,1,13,1053.0
+LTFRB_3764,"A. Bonifacio Ave, Marikina City, Manila",LTFRB_4289,"Andrews Av, Pasay City, Manila",01:31:50,11,66,5510.0
+LTFRB_259,"P. Bonifacio Street / Mango Road Intersection,  Malabon City",LTFRB_2896,"E Service Rd, Parañaque City, Manila",01:37:07,12,46,5827.0
+LTFRB_3489,"Roman Rojas Rd, Teresa, Manila",LTFRB_3741,"J. P. Rizal St, Marikina City, Manila",01:44:39,6,102,6279.0
+LTFRB_2000,"J.P. Rizal Ave / Honradez Intersection, Makati City, Manila",LTFRB_3775,"Nicanor Roxas St, Marikina City, Manila",01:06:41,8,41,4001.0
+LTFRB_1903,"Gen M Malvar, Manila",LTFRB_2057,"Epifanio de los Santos Avenue, Mandaluyong City, Manila",00:38:13,4,22,2293.0
+LTFRB_4022,"Dr Eduardo V. Roquero Sr. Rd, City of San Jose del Monte, Manila",LTFRB_418,"Joel Vulcanizing Shop, Quirino Highway, City of San Jose del Monte",00:26:02,0,27,1562.0
+LTFRB_2335,"Airport Rd / Domestic Rd Intersection, Parañaque City, Manila",LTFRB_329,"North Bay Boulevard / Lacson Intersection, City of Navotas",01:17:23,8,56,4643.0
+LTFRB_219,"Governor Pascual, City of Navotas",LTFRB_4928,"Mindanau Avenue, Caloocan City",01:30:43,10,74,5443.0
+FORT_1,"McKinley Parkway, Taguig City",LTFRB_2529,"Molino Rd, Bacoor City, Manila",01:40:40,9,60,6040.0
+LTFRB_2873,"NIA Rd / National Hwy Intersection, Muntinlupa City, Manila",LTFRB_4385,"Security / Prudential, Caloocan City, Manila",03:35:38,20,123,12938.0
+EDSA_3,EDSA Carousel Bus Stop - Ayala,LTFRB_3521,"Southridge Private High School, near L. Sumulong Memorial Cir, Antipolo City, Manila",Infinite,-1,0,inf
+LTFRB_1916,"Pablo Ocampo Sr. / G.Del Pilar, Manila",LTFRB_4176,"North Luzon Expressway, Marilao, Manila",01:55:42,9,83,6942.0
+LTFRB_1364,"Quezon Avenue, Quezon City",LTFRB_2871,"Veterans' Bank, National Hwy, Muntinlupa City, Manila",02:22:07,14,58,8527.0
+LTFRB_1726,"Dominga St, Lungsod ng Pasay",LTFRB_2009,"South Ave / Pablo Ocampo Sr. Extension, Makati City, Manila",00:13:33,2,10,813.0
+LTFRB_2117,"Kamuning Rd, Quezon City, Manila",LTFRB_3159,"Buting Elementary School, M. Concepcion Ave, Pasig City, Manila",00:55:11,8,48,3311.0
+LTFRB_1652,"Taft Ave / T.M. Kalaw Intersection, Manila",LTFRB_2359,"NAIA Rd / Imelda Ave Intersection, Parañaque City, Manila",00:42:58,8,30,2578.0
+LTFRB_1952,"Epifanio de los Santos Avenue / Skyway , Lungsod ng Makati, Manila",LTFRB_4365,"Katipunan Ave, Quezon City, Manila",01:11:56,9,48,4316.0
+LTFRB_2183,"P. Tuazon Blvd / 21st Ave Intersection, Quezon City, Manila",LTFRB_3749,"J. P. Rizal St, Marikina City, Manila",00:27:10,4,22,1630.0
+LTFRB_3603,"Sumulong Hwy, Antipolo City, Manila",LTFRB_418,"Joel Vulcanizing Shop, Quirino Highway, City of San Jose del Monte",02:53:28,8,116,10408.0
+LTFRB_150,"Joaquin, Obando",LTFRB_245,"M. D. Del Pilar / Angela Intersection, Malabon City",00:28:00,3,19,1680.0
+LTFRB_1815,"G Tuazon / Bataan Intersection, Manila",LTFRB_4449,"Victoriano Luna Ave, Quezon City, Manila",00:43:25,6,32,2605.0
+LTFRB_1564,"Antonio Rivera, Manila",LTFRB_1941,"Gen. Mascardo / Evangelista Intersection, Makati City",00:48:36,6,36,2916.0
+LTFRB_2194,"Columbia / Albany Intersection, Quezon City, Manila",LTFRB_567,"Kingfisher / Quirino Highway Intersection, Caloocan City",01:10:06,10,52,4206.0
+LTFRB_2809,"C Arellano St / G Araneta St Intersection, Muntinlupa City, Manila",LTFRB_3542,"Fibertex Corporation, Ortigas Avenue Extension, Tatay, Manila",02:48:50,10,141,10130.0
+LTFRB_1802,"Arsenio H. Lacson Ave / J. Fajardo Intersection, Manila",LTFRB_4994,Paco PNR,Infinite,-1,0,inf
+LTFRB_2287,"BIR Rd, Quezon City, Manila",LTFRB_2627,"Manuel L. Quezon, Muntinlupa City, Manila",02:06:03,9,98,7563.0
+LTFRB_3663,"Marcos Hwy, Antipolo City, Manila",LTFRB_516,"Old Zabarte, Caloocan City",02:04:25,10,82,7465.0
+LTFRB_3540,"Ortigas Avenue Extension, Antipolo City, Manila",LTFRB_495,"Sto. Nino Parish, Old Zabarte, Caloocan City",02:32:18,9,111,9138.0
+LTFRB_1694,"Taft Avenue / Pablo Ocampo Sreet, Avenue, Manila",LTFRB_2865,"National Hwy, Muntinlupa City, Manila",01:48:41,10,52,6521.0
+LTFRB_193,"N Naval, Malabon City",LTFRB_4390,"St Francis Ave / 1st, Caloocan City, Manila",01:52:28,8,91,6748.0
+LTFRB_1364,"Quezon Avenue, Quezon City",LTFRB_2386,"Dr A. Santos Ave, Parañaque City, Manila",01:47:42,11,62,6462.0
+LTFRB_1873,"Pedro Gil / Fabie Intersection, Manila",LTFRB_3951,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",03:15:40,11,160,11740.0
+LTFRB_1647,"Justice Cecilia Munoz-Palma, Manila",LTFRB_2036,"F. Ortigas, Mandaluyong City, Manila",00:38:04,7,19,2284.0
+LTFRB_2576,"Molino-Paliparan Rd, Lungsod ng Dasmariñas, Manila",LTFRB_3968,"Chapel of the Nativity, Santa Maria, Manila",05:05:34,14,216,18334.0
+LTFRB_3013,"A. Mabini St / Blumentritt St, Pasig City, Manila",LTFRB_4767,"Damong Maliit Road, Caloocan City",01:53:23,15,86,6803.0
+LTFRB_2291,"Diosdado Macapagal Blvd, Lungsod ng Pasay, Manila",LTFRB_4063,"Dr Eduardo V. Roquero Sr. Av, City of San Jose del Monte, Manila",03:50:01,18,155,13801.0
+LTFRB_1144,"Malolos Avenue / Milagrosa Intersection, Caloocan City",LTFRB_893,"Mayon Avenue, Rodriguez",01:57:21,6,101,7041.0
+LTFRB_1477,"Dimaslang, Manila",LTFRB_846,"Manila Gravel Pit Road / Makisig Intersection, Quezon City",01:23:13,10,59,4993.0
+LTFRB_1604,Camba / San Nicolas,LTFRB_642,"Bagabaguin Road, Caloocan City",01:14:35,9,61,4475.0
+LTFRB_1522,"España Blvd / Nicanor Reyes St Intersection, Manila",LTFRB_2910,"South Luzon Expressway, Makati City, Manila",00:50:39,6,15,3039.0
+LTFRB_134,"A. Fernando Elementary School, M H Del Pilar, Malanday, Valenzuela City",LTFRB_2460,"Emilio Aguinaldo Hwy, Silang, Manila",04:39:06,26,183,16746.0
+LTFRB_1554,"Jose Abad Santos Ave., Manila",LTFRB_2669,"Alabang-Zapote Road / Rosal Intersection, Las Piñas City, Manila",01:36:37,13,53,5797.0
+LTFRB_4061,"Bagong Buhay B Elementary School, City of San Jose del Monte, Manila",LTFRB_614,"Topaz, Caloocan City",01:55:47,6,93,6947.0
+LTFRB_1949,"Epifanio de los Santos Avenue, Lungsod ng Makati, Manila",LTFRB_483,"Our Lady of the Star Nursery, St Joseph, City of San Jose del Monte",02:46:33,14,105,9993.0
+LTFRB_1096,"Life Value Clinic, Congressional Avenue, Quezon City",LTFRB_2899,"DBP Ave, Taguig City, Manila, Manila",01:55:55,12,75,6955.0
+LTFRB_2682,"Marcos Alvarez Ave, Las Piñas City, Manila",LTFRB_4392,"St Francis Ave / Olympic Ave, Caloocan City, Manila",03:44:15,15,152,13455.0
+LTFRB_1495,"Blumentritt, Manila",LTFRB_2883,"South Luzon Expressway, Muntinlupa City, Manila",01:46:39,12,40,6399.0
+LTFRB_1882,"President Quirino Ave. Ext / Paz St Intersection, Manila",LTFRB_686,"El- Camino, City of Meycauayan",01:55:01,11,92,6901.0
+LTFRB_2128,"Ermin Garcia Ave, Quezon City, Manila",LTFRB_4724,"Modesta, Marikina City",00:59:30,11,38,3570.0
+LTFRB_3665,"Un-named road near Marcos Hwy, Antipolo City, Manila",LTFRB_367,"4th Avenue, Caloocan City",02:11:04,12,103,7864.0
+LTFRB_4097,"San Jose del Monte - Marilao Rd, City of San Jose del Monte, Manila",LTFRB_4678,"Sergio H Loyola, Manila City",02:25:10,12,111,8710.0
+LTFRB_2002,"Nicanor Garcia / Ascuncion Intersection, Makati City, Manila",LTFRB_2191,"Ermin Garcia Ave / 15th Ave., Quezon City, Manila",00:54:03,6,42,3243.0
+LTFRB_1688,"Remedios / Jorge Bocobo Intersection, Manila",LTFRB_2874,"National Hwy, Muntinlupa City, Manila",01:47:18,11,49,6438.0
+EDSA_4,Edsa Bus Carousel - Ortigas,LTFRB_3093,"26th Street / McKinley Pkwy Intersection, Taguig City, Manila",Infinite,-1,0,inf
+LTFRB_4000,"Santa Maria San Jose Rd, Santa Maria, Manila",LTFRB_911,"MH del Pilar Street, Rodriguez",03:24:29,10,175,12269.0
+LTFRB_3002,"A. Luna St, Pasig City, Manila",LTFRB_4987,Santolan LRT,Infinite,-1,0,inf
+LTFRB_1767,"Park Ave, Lungsod ng Pasay",LTFRB_743,"Joshua / Amos Intersection, Quezon City",02:17:35,15,96,8255.0
+LTFRB_372,"St Joseph School, Juan Luma / Pampanga, Manila",LTFRB_874,"Payatas Road, Quezon City",01:59:00,16,92,7140.0
+LTFRB_1794,"Ramon Magsaysay Blvd, Manila",LTFRB_543,"Zapote Street / Ilang-Ilang Intersection, Caloocan City",01:36:36,17,69,5796.0
+LTFRB_3599,"Sumulong Hwy, Antipolo City, Manila",LTFRB_548,"Hospital, 121.05684",01:53:41,8,75,6821.0
+LTFRB_2234,"F. Castillo / A. Luna, Quezon City, Manila",LTFRB_3589,"Sumulong Hwy, Antipolo City, Manila",01:08:48,5,47,4128.0
+EDSA_17,EDSA Carousel Bus Stop - SM Mall Of Asia,LTFRB_2468,"Manila-Cavite Expy, Bacoor City, Manila",Infinite,-1,0,inf
+LTFRB_2269,"Magsaysay Ave / Roces St Intersection, Quezon City, Manila",LTFRB_3951,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",03:04:56,9,153,11096.0
+LTFRB_2069,"P.Oliveros, Mandaluyong City, Manila",LTFRB_3763,"A. Bonifacio Ave, Marikina City, Manila",01:18:29,10,55,4709.0
+LTFRB_3975,"Santa Maria San Jose Rd, Santa Maria, Manila",LTFRB_978,"J.P Rizal / Gen. Villamor Intersection, Quezon City",03:06:46,14,131,11206.0
+LTFRB_3482,"Quezon Ave, Teresa, Manila",LTFRB_4755,"Malanting, Quezon City",03:14:21,13,159,11661.0
+LTFRB_3201,"Ortigas Ave, Pasig City, Manila",LTFRB_4379,"Congressional Road Extension / Road 7, Quezon City, Manila",01:48:33,13,90,6513.0
+LTFRB_1347,"Banawe Avenue, Quezon City",LTFRB_2174,"General Romulo Ave ,Quezon City, Manila",00:45:09,8,38,2709.0
+LTFRB_1050,"Quirino Highway / Rockville Avenue Intersection, Quezon City",LTFRB_454,"Gumaok Main Road / Quirino Highway Intersection, City of San Jose del Monte",01:13:31,7,43,4411.0
+LTFRB_3368,"E Bank Rd, Pasig City, Manila",LTFRB_4275,"PNR San Andres Station, South Luzon Expressway, Makati City, Manila",01:05:01,11,39,3901.0
+LTFRB_3370,"E Bank Rd / SE Approach Intersection, Pasig City, Manila",LTFRB_566,"Zabarte Road / Quirino Highway Intersection, Caloocan City",01:46:49,15,82,6409.0
+LTFRB_1483,"Nicanor Roxas / Blumentritt  Intersection, Manila",LTFRB_1515,"J. Barlin / P. Noval Intersection, Manila",00:13:06,1,12,786.0
+LTFRB_1247,"Dangay / Bansalangin Intersection, Quezon City",LTFRB_2065,"Boni Ave / Sto Rosario Intersection, Mandaluyong City, Manila",01:02:23,10,58,3743.0
+LTFRB_1768,"Senator Gil Puyat Ave, Lungsod ng Pasay, Manila",LTFRB_3763,"A. Bonifacio Ave, Marikina City, Manila",01:29:21,14,61,5361.0
+LTFRB_1626,"Magallanes Dr, Manila",LTFRB_3738,"J. P. Rizal St / Japan Avenue Intersection, Marikina City, Manila",01:41:14,16,76,6074.0
+LTFRB_3734,"J. P. Rizal St / BMW Drive Intersection, San Mateo, Manila",LTFRB_4597,"Civic Drive, Montinlupa City",02:40:38,10,125,9638.0
+LTFRB_3212,"Capt. Henry P. Javier / St.Martin Intersection, Pasig City, Manila",LTFRB_795,"Lagro Elementary School, Ascencion Avenue, Quezon City",01:52:21,10,77,6741.0
+LTFRB_2804,"Bilibid Rd, Muntinlupa City, Manila",LTFRB_3841,"General Ordoñez Ave, Marikina City, Manila",02:51:37,11,128,10297.0
+LTFRB_3941,"Mater Dei Academy, Santa Maria, Manila",LTFRB_478,"Malaria Road / Purok 2 Intersection, City of San Jose del Monte",02:43:05,4,151,9785.0
+LTFRB_1032,"Casanova Drive / Tandang Sora Intersection, Quezon City",LTFRB_41,"St Mary's College, MacArthur Highway, City of Meycauayan",01:30:59,9,74,5459.0
+EDSA_20,EDSA Carousel Bus Stop - Guadalupe,LTFRB_3165,"Pasig Blvd, Pasig City, Manila",Infinite,-1,0,inf
+LTFRB_3637,"Marcos Hwy, Antipolo City, Manila",LTFRB_4022,"Dr Eduardo V. Roquero Sr. Rd, City of San Jose del Monte, Manila",03:38:42,10,162,13122.0
+LTFRB_4152,"San Jose del Monte - Marilao Rd / North Luzon Expressway, Marilao, Manila",LTFRB_4408,"Anapolis, San Juan, Manila",02:06:21,13,102,7581.0
+LTFRB_2475,"Quirino Ave, Bacoor City, Manila",LTFRB_3065,"Carlos P. Garcia Ave, Taguig City, Manila",01:33:24,9,62,5604.0
+LTFRB_1459,"Jose Abad Santos Avenue / Tayuman Road, Quezon City",LTFRB_4167,"North Luzon Expressway, Marilao, Manila",01:57:46,6,87,7066.0
+LTFRB_3029,"Dr Sixto Antonio Ave, Pasig City, Manila",LTFRB_3781,"Shoe Ave, Marikina City, Manila",00:34:00,2,29,2040.0
+LTFRB_2194,"Columbia / Albany Intersection, Quezon City, Manila",LTFRB_2211,"Narra, Quezon City, Manila",00:10:27,1,10,627.0
+LTFRB_1207,"Tanding Sora Avenue, Quezon City",LTFRB_2427,"Emilio Aguinaldo Hwy, Imus, Manila",02:45:38,16,96,9938.0
+LTFRB_4620,"Multinational Avenue, Paranaque City",LTFRB_981,"IBP Road, Quezon City",Infinite,-1,0,inf
+LTFRB_4784,"Glen T de Leon, Valenzuela City",LTFRB_654,"North Luzon Expressway / M Gregorio, Valenzuela City",Infinite,-1,0,inf
+LTFRB_2868,"National Hwy, Muntinlupa City, Manila",LTFRB_4152,"San Jose del Monte - Marilao Rd / North Luzon Expressway, Marilao, Manila",03:50:59,18,141,13859.0
+LTFRB_1958,"A.Apolinario / Gen.P.Garcia Intersection, Makati City, Manila",LTFRB_2115,"Timog Ave, Quezon City, Manila",01:06:34,7,50,3994.0
+LTFRB_1617,"T. Pinpin Street / Escolta Intersection, Manila",LTFRB_548,"Hospital, 121.05684",01:36:08,14,78,5768.0
+LTFRB_2796,"Congressional Rd,  General Mariano Alvarez, Manila",LTFRB_3562,"Sto. Niño St,  Antipolo City, Manila",04:06:17,14,188,14777.0
+LTFRB_4146,"North Luzon Expressway, Marilao, Manila",LTFRB_4817,"M de Leon Street, Santa Maria",Infinite,-1,0,inf
+LTFRB_1169,"Quirino Highway, Quezon City",LTFRB_2423,"Emilio Aguinaldo Hwy, Bacoor City, Manila",02:18:36,16,74,8316.0
+LTFRB_3062,"Carlos P. Garcia Ave, Taguig City, Manila",LTFRB_4330,"D Romualdez Sr / United Nations Ave, Manila",00:59:35,14,37,3575.0
+LTFRB_2876,"National Hwy, Muntinlupa City, Manila",LTFRB_994,"Commonwealth Avenue / Capitol Homes Drive Intersection, Quezon City",02:48:02,12,91,10082.0
+LTFRB_4094,"San Jose del Monte - Marilao Rd, City of San Jose del Monte, Manila",LTFRB_4342,"E.Service Rd, Quezon City, Metro Manila",01:51:22,5,92,6682.0
+LTFRB_1692,"Leon Guinto Sr., Manila",LTFRB_2454,"San Agustin Bus Terminal, Emilio Aguinaldo Hwy, Lungsod ng Dasmariñas, Manila",02:50:00,15,101,10200.0
+LTFRB_3884,"Eulogio Rodriguez Jr. Ave / Eagle Av, Pasig City, Manila",LTFRB_4687,"Gregorio Araneta Ave, Quezon City",01:05:56,6,43,3956.0
+LTFRB_1205,"Tanding Sora Avenue, Quezon City",LTFRB_1600,"T. Mapua, Manila",00:51:30,6,34,3090.0
+LTFRB_2367,"Ninoy Aquino Ave / Multinational Ave Intersection, Parañaque City, Manila",LTFRB_4477,"P. Oliveros St, Antipolo City, Manila",02:11:59,18,97,7919.0
+LTFRB_1977,"Senator Gil Puyat Ave / Makati Avenue Intersection, Makati City, Manila",LTFRB_2901,"Food Terminal Incorporated, DBP Ave, Taguig City, Manila, Manila",00:43:01,4,19,2581.0
+LTFRB_3814,"2nd St / E Mendoza St Intersection, Marikina City, Manila",LTFRB_961,"Batasan - San Mateo / Kagawad Intersection, Quezon City",00:30:10,3,22,1810.0
+LTFRB_1047,"Quirino Highway / Premiere Street Intersection, Quezon City",LTFRB_39,"Tricycle Station, MacArthur Highway, Marilao",01:20:42,10,71,4842.0
+LTFRB_3963,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",LTFRB_4774,"Glen T de Leon, Valenzuela City",Infinite,-1,0,inf
+LTFRB_1364,"Quezon Avenue, Quezon City",LTFRB_2630,"Manuel L. Quezon, Muntinlupa City, Manila",01:59:57,14,45,7197.0
+LTFRB_2534,"Molino Rd, Bacoor City, Manila",LTFRB_3423,"Riverside Dr, Pagis City, Manila",02:25:03,14,88,8703.0
+LTFRB_4084,"San Jose del Monte - Marilao Rd, City of San Jose del Monte, Manila",LTFRB_5001,EDSA PNR ,Infinite,-1,0,inf
+LTFRB_1107,"Ambuklao, Quezon City",LTFRB_3091,"Federacion Dr, Taguig City, Manila",01:28:32,10,75,5312.0
+LTFRB_2198,"Kamias Rd / Anonas Extension Intersection, Quezon City, Manila",LTFRB_3298,"Quezon Ext. Binangonan, Manila",02:13:35,11,93,8015.0
+LTFRB_1073,"Mindanao Avenue, Quezon City",LTFRB_505,"Lacson, Langit Road, Caloocan City",01:14:15,10,57,4455.0
+LTFRB_2717,"South Luzon Expressway / Gen Paulino Santos Ave Intersection, Muntinlupa City, Manila",LTFRB_4637,"Paseo de Roxas, Makati City",01:47:32,11,47,6452.0
+LTFRB_30,"MacArthur Highway, Marilao",LTFRB_4007,"Sapang Palay - Muzon Road, City of San Jose del Monte, Manila",01:54:36,1,93,6876.0
+LTFRB_3048,"C. Raymundo Ave, Pasig City, Manila",LTFRB_517,"Old Zabarte, Caloocan City",02:13:24,17,102,8004.0
+LTFRB_3565,"General Luna St, Antipolo City, Manila",LTFRB_4043,"Quirino Highway, City of San Jose del Monte, Manila",03:32:07,10,152,12727.0
+LTFRB_4752,"SM Fairview, Quezon City",LTFRB_4805,"Sta Maria Tungkong Mangga Road, Santa Maria",Infinite,-1,0,inf
+LTFRB_2024,"Coronado / E.Pantaleon Intersection, Makati City, Manila",LTFRB_4622,"Jerusalem, Paranaque City",Infinite,-1,0,inf
+LTFRB_1635,"Railroad Dr / 13th St Intersection, Manila",LTFRB_717,"Paso de Blas, Valenzuela City",01:15:19,8,67,4519.0
+LTFRB_2016,"Makati-Mandaluyong Bridge, Makati City, Manila",LTFRB_4596,"Corporate Avenue, Montinlupa City",01:36:20,10,40,5780.0
+LTFRB_1005,"Social Science Institute, Commonwealth Avenue, Quezon City",LTFRB_393,"Jose Corazon de Jesus Elementary School, Juan Luma, Manila",01:03:59,12,52,3839.0
+LTFRB_1613,"A F. Torres / Ronquillo Intersection, Manila",LTFRB_3425,"Ortigas Ave, Pagis City, Manila",01:15:17,7,34,4517.0
+LTFRB_346,"Vitas, Velasquez, Tondo",LTFRB_3839,"Bayan-Bayanan Ave, Marikina City, Manila",01:37:48,14,73,5868.0
+LTFRB_1358,"Banawe Avenue, Quezon City",LTFRB_2842,"National Hwy, Biñan City, Manila",03:10:27,17,93,11427.0
+LTFRB_4426,"Col. Bonny Serrano Ave, Quezon City, Manila",LTFRB_4675,"Evangelista Street, Manila City",Infinite,-1,0,inf
+LTFRB_3539,"Ortigas Avenue Extension, Antipolo City, Manila",LTFRB_4958,Abad Santos LRT,Infinite,-1,0,inf
+LTFRB_1771,"Legarda, Manila",LTFRB_2842,"National Hwy, Biñan City, Manila",02:42:07,12,70,9727.0
+LTFRB_3090,"7th Ave / McKinley Pkwy Intersection, Taguig City, Manila",LTFRB_4149,"North Luzon Expressway, Marilao, Manila",02:32:41,15,103,9161.0
+LTFRB_2231,"21st Ave, Quezon City, Manila",LTFRB_3770,"J. P. Rizal St, Marikina City, Manila",00:28:40,6,22,1720.0
+LTFRB_4291,"Upper McKinley Rd, Taguig City, Manila",LTFRB_4306,"Susana Heights Access Rd, Muntinlupa City, Manila",01:45:25,10,53,6325.0
+LTFRB_256,"United Evangelical Church of Malabon, Gov. W. Pascual Avenue, Malabon City",LTFRB_3360,"E Bank Rd, Taytay, Manila",01:47:48,13,82,6468.0
+LTFRB_4213,"Epifanio de los Santos Av / Aurora Blvd, Quezon City, Manila",LTFRB_4269,"PNR Buendia Station, Skyway, Makati City, Manila",00:55:56,12,44,3356.0
+LTFRB_215,"Malabon Public Market, Estrella, Malabon City",LTFRB_3573,"Martinez St / R. De Jesus Intersection, Antipolo City, Manila",02:30:35,20,125,9035.0
+LTFRB_2184,"20th Ave / D. Silang Intersection, Quezon City, Manila",LTFRB_2730,"South Luzon Expressway, Biñan City, Manila",03:00:42,13,97,10842.0
+LTFRB_1692,"Leon Guinto Sr., Manila",LTFRB_2847,"National Hwy, Biñan City, Manila",02:16:31,12,70,8191.0
+LTFRB_2774,"Governor's Drive, Carmona, Manila",LTFRB_4551,"Daang Reyna, Montinlupa City",02:12:53,6,81,7973.0
+LTFRB_1390,"West Avenue / Bulletin Intersection, Quezon City",LTFRB_2365,"Ninoy Aquino Ave, Parañaque City, Manila",01:30:16,14,64,5416.0
+LTFRB_2176,"15th Ave / Mirasol Intersection, Quezon City, Manila",LTFRB_4093,"San Jose del Monte - Marilao Rd / Langit Rd, City of San Jose del Monte, Manila",02:36:18,11,120,9378.0
+LTFRB_2024,"Coronado / E.Pantaleon Intersection, Makati City, Manila",LTFRB_95,"CDC Manufacturing, MacArthur Highway, Malabon City",01:14:00,10,43,4440.0
+LTFRB_3404,"Bonifacio Ave / ML Quezon St, Cainta, Manila",LTFRB_3476,"Un- named road, Teresa, Manila",01:10:49,7,76,4249.0
+LTFRB_3784,"Shoe Ave, Marikina City, Manila",LTFRB_521,"Captain F. Samano / Champaca Intersection, Caloocan City",01:33:19,9,57,5599.0
+LTFRB_1131,"North Luzon Expressway near NLEX Complex, Caloocan City",LTFRB_4198,"Epifanio de los Santos Av, Quezon City, Manila",00:32:37,5,26,1957.0
+LTFRB_1646,"Taft Ave, Manila",LTFRB_3532,"Ortigas Avenue Extension, Antipolo City, Manila",01:47:44,8,67,6464.0
+LTFRB_4097,"San Jose del Monte - Marilao Rd, City of San Jose del Monte, Manila",LTFRB_4707,"P Rosales, Pasig City",Infinite,-1,0,inf
+LTFRB_1517,"P. Noval / España Blvd Intersection, Manila",LTFRB_2875,"National Hwy, Muntinlupa City, Manila",02:02:57,12,42,7377.0
+LTFRB_1496,"Halcon / Espana Boulevard Intersection, Manila",LTFRB_4618,"Multinational Avenue, Paranaque City",Infinite,-1,0,inf
+LTFRB_3922,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",LTFRB_4602,"Festival Mall, Montinlupa City",04:37:35,24,150,16655.0
+LTFRB_1546,"Mayhaligue / S.Reyes Intersection, Manila",LTFRB_624,"Genteral Luis, Caloocan City",01:18:35,9,65,4715.0
+LTFRB_1509,"Alfonso Mendoza, Manila",LTFRB_4245,"Don Placido Campos Av / N. Guevarra St, Dasmariñas City, Manila",02:49:03,15,96,10143.0
+LTFRB_1806,"G Tuazon, Manila",LTFRB_797,"Ascencion Avenue / Tatlong Hari Street Intersection, Quezon City",01:37:00,18,71,5820.0
+LTFRB_2419,"Emilio Aguinaldo Hwy / Tirona Hwy Intersection, Bacoor City, Manila",LTFRB_3729,"Amang Rodriguez Ave, Pasig City, Manila",02:11:55,12,80,7915.0
+LTFRB_427,"Starmall San Jose de Monte, Quirino Highway, City of San Jose del Monte",LTFRB_935,"Gen. A Luna / Sumulong Street, San Mateo",01:59:59,9,100,7199.0
+LTFRB_1597,"Soler St / Roman Intersection, Manila",LTFRB_754,"St Dominic Savio College, Quirino Highway, Calcoocan City",01:56:22,14,86,6982.0
+LTFRB_2007,"Zapote / Kalayaan Ave, Makati City, Manila",LTFRB_3003,"A. Luna St, Pasig City, Manila",00:43:31,5,25,2611.0
+LTFRB_2619,"South Luzon Expressway, Muntinlupa City, Manila",LTFRB_3594,"Sumulong Hwy, Antipolo City, Manila",02:44:58,9,126,9898.0
+LTFRB_4910,"Gov W Pascual Ave, Malabon City",LTFRB_534,"Ilang - Ilang, Caloocan City",01:44:31,12,81,6271.0
+LTFRB_2255,"V. Luna Ave, Quezon City, Manila",LTFRB_2382,"Dr A. Santos Ave / N Lopez Ave Intersection, Parañaque City, Manila",02:01:23,14,90,7283.0
+LTFRB_1312,"Andreas Bonifacio / Bataan Intersection, Quezon City",LTFRB_3377,"Manila East Rd / Botong Francisco Ave, Angono, Manila",02:05:12,12,89,7512.0
+LTFRB_1139,"North Luzon Expressway near Bonifacio Memorial Elementary School, Caloocan City",LTFRB_1285,"Jehovah's Witness Watchtower Branch Office, Roosevelt Avenue, Quezon City",00:18:12,1,20,1092.0
+LTFRB_1646,"Taft Ave, Manila",LTFRB_2137,"N.Domingo, San Juan, Manila",00:34:27,5,24,2067.0
+LTFRB_1915,"Caton / Pablo Ocampo Sr. Extension Intersection, Makati City",LTFRB_1967,"Amorsolo Street, Makati City, Manila",00:17:35,3,10,1055.0
+LTFRB_239,"Petron, M. D Del Pilar, Malabon City",LTFRB_4978,Legarda LRT,Infinite,-1,0,inf
+LTFRB_1644,"Padre Burgos St, Manila",LTFRB_3127,"Manggahan / Ramon Magsaysay Ave Intersection, Makati City, Manila",00:46:01,3,32,2761.0
+LTFRB_1493,"Dapitan / Maria Cristina ntersrction, Manila",LTFRB_1707,"Vicente Sotto, Lungsod ng Pasay, Manila",00:38:40,7,26,2320.0
+LTFRB_1751,"Tengco, Lungsod ng Pasay",LTFRB_2874,"National Hwy, Muntinlupa City, Manila",01:32:27,9,40,5547.0
+LTFRB_179,"Navarette Road, Malabon City",LTFRB_2750,"General Malvar St, Biñan City, Manila",03:58:54,16,117,14334.0
+LTFRB_3050,"C. Raymundo Ave, Pasig City, Manila",LTFRB_378,"F. Benitez Elementary School, Juan Luma, Caloocan City",01:15:53,14,38,4553.0
+LTFRB_1442,"Rizal Avenue near Aurora Blvd Interstion, Quezon City",LTFRB_2938,"Chino Roces Ave, Makati City, Manila",01:00:39,8,38,3639.0
+LTFRB_1573,"Valariano Fugoso, Manila",LTFRB_3015,"Dr Sixto Antonio Ave, Pasig City, Manila",01:01:32,7,36,3692.0
+LTFRB_1036,"Tandang Sora, Quezon City",LTFRB_2532,"Molino Rd, Bacoor City, Manila",02:46:20,16,124,9980.0
+LTFRB_1892,"Lorenzo Dela Paz, Manila",LTFRB_3613,"Sumulong Hwy, Antipolo City, Manila",01:34:47,12,47,5687.0
+LTFRB_3016,"Dr Sixto Antonio Ave, Pasig City, Manila",LTFRB_4054,"Colegio de San Gabriel Arcangel, City of San Jose del Monte, Manila",03:42:37,19,164,13357.0
+LTFRB_3195,"E.Abello, Pasig City, Manila",LTFRB_457,"Mayamy Bus Station, Quirino Highway, City of San Jose del Monte",02:37:54,20,111,9474.0
+LTFRB_4344,"5th Ave West / Maria Clara St, Caloocan City, Manila",LTFRB_596,"Kabatuhan, Caloocan City",01:19:11,6,67,4751.0
+LTFRB_1593,"Juan Luna / Sta. Elena Intersection, Manila",LTFRB_28,"Marilao Public Market, MacArthur Highway, Marilao",01:36:31,10,85,5791.0
+LTFRB_3049,"C. Raymundo Ave / Caruncho Intersection, Pasig City, Manila",LTFRB_3863,"C.M. Recto St, Marikina City, Manila",01:09:23,4,51,4163.0
+LTFRB_1614,"Rizal Avenue, Manila",LTFRB_2120,"Kamias Rd / Maliksi St Intersection, Quezon City, Manila",00:37:33,5,30,2253.0
+LTFRB_2834,"National Hwy, Santa Rosa City, Manila",LTFRB_3072,"Kagitingan Executive Golf Course, Lawton Ave, Taguig City, Manila",02:16:33,11,76,8193.0
+LTFRB_2830,"National Hwy, Santa Rosa City, Manila",LTFRB_2928,"Andrews Ave / R. Higgins Intersection, Lungsod ng Pasay, Manila",02:22:14,13,82,8534.0
+EDSA_14,EDSA Carousel Bus Stop - Ayala,LTFRB_4245,"Don Placido Campos Av / N. Guevarra St, Dasmariñas City, Manila",Infinite,-1,0,inf
+LTFRB_2963,"Adia Bagumbayan Manuel L. Quezon, Taguig City, Manila",LTFRB_961,"Batasan - San Mateo / Kagawad Intersection, Quezon City",02:05:46,8,103,7546.0
+LTFRB_3401,"Bonifacio Ave, Cainta, Manila",LTFRB_4331,"D Romualdez Sr, Manila",01:27:32,12,51,5252.0
+LTFRB_2976,"M. L. Quezon St, Taguig City, Manila",LTFRB_4704,"Labao, Pasig City",00:50:35,3,33,3035.0
+LTFRB_1356,Philipine Orthapedic Centre,LTFRB_5008,Sucat PNR,Infinite,-1,0,inf
+LTFRB_1362,"National Youth Commision, Quezon Avenue, Quezon City",LTFRB_3224,"F.Manalo / Gen.Natividad Intersection, Taguig City, Manila",01:17:10,8,57,4630.0
+LTFRB_1060,"Mindanao Avenue / Don Vicente Intersection, Quezon City",LTFRB_1175,"Pascual Memorial Elementary School, Quirino Highway, Quezon City",00:17:56,2,17,1076.0
+LTFRB_2123,"K-10th / Colonel Salgado Intersection, Quezon City, Manila",LTFRB_2737,"Governor's Dr, Carmona, Biñan City, Manila",03:11:45,15,104,11505.0
+LTFRB_1792,"Tuberias, Manila",LTFRB_2680,"Marcos Alvarez Ave, Las Piñas City, Manila",01:55:19,12,66,6919.0
+LTFRB_2006,"Kalayaan Ave / South Ave Intersection, Makati City, Manila",LTFRB_824,"Commonwealth Avenue, Quezon City",02:01:49,11,76,7309.0
+LTFRB_2809,"C Arellano St / G Araneta St Intersection, Muntinlupa City, Manila",LTFRB_4763,"Llano Road, Caloocan City",03:42:41,22,118,13361.0
+LTFRB_3860,"Gen. B. G. Molina St, Marikina City, Manila",LTFRB_3968,"Chapel of the Nativity, Santa Maria, Manila",03:24:01,13,148,12241.0
+LTFRB_192,"N Naval, Malabon City",LTFRB_7,"Balagtas Municipal Hall, MacArthur Highway, Balagtas",02:09:03,7,86,7743.0
+LTFRB_1640,"Padre Burgos St, Manila",LTFRB_4387,"Continental / Chanel / Far E. Ave, Caloocan City, Manila",01:52:56,9,88,6776.0
+LTFRB_1276,"Gasan / Corumi Intersection, Quezon City",LTFRB_1530,"Oroquieta / Bambang Intersection, Manila",00:26:39,5,21,1599.0
+LTFRB_305,"Division of City Schools, M. Asistio Avenue, Caloocan City",LTFRB_3708,"Felix Ave, Cainta, Manila",01:29:53,13,66,5393.0
+LTFRB_4223,"Epifanio de los Santos Av, Quezon City, Manila",LTFRB_616,"Ramirez, Caloocan City",01:14:06,9,62,4446.0
+LTFRB_1787,"Ayala Blvd, Manila",LTFRB_1970,"Makati Ave / Ayala Avenue Intersection, Makati City, Manila",00:37:00,5,20,2220.0
+LTFRB_2465,"Manila-Cavite Expy, Bacoor City, Manila",LTFRB_2805,"University Rd, Muntinlupa City, Manila",01:28:59,4,53,5339.0
+LTFRB_412,"Quirino Highway, City of San Jose del Monte",LTFRB_4495,"Dumulay, Quezon City, Manila",01:30:53,4,66,5453.0
+LTFRB_3132,"Dr Jose P. Rizal Extension, Makati City, Manila",LTFRB_791,"Quirino Highway, Quezon City",01:51:29,16,87,6689.0
+LTFRB_2479,"Emilio Aguinaldo Hwy, Bacoor City, Manila",LTFRB_4173,"North Luzon Expressway, Marilao, Manila",03:13:19,13,124,11599.0
+LTFRB_3603,"Sumulong Hwy, Antipolo City, Manila",LTFRB_4601,"Civic Drive, Montinlupa City",02:41:51,6,123,9711.0
+LTFRB_1779,"R Hidalgo, Manila",LTFRB_3011,"A. Mabini St, Pasig City, Manila",00:57:39,4,33,3459.0
+LTFRB_2187,"18th Ave, Quezon City, Manila",LTFRB_567,"Kingfisher / Quirino Highway Intersection, Caloocan City",01:17:19,14,59,4639.0
+LTFRB_1310,"Andreas Bonifacio, Quezon City",LTFRB_4778,"Glen T de Leon, Valenzuela City",Infinite,-1,0,inf
+LTFRB_1121,"North Luzon Expressway, Valenzuela City",LTFRB_1276,"Gasan / Corumi Intersection, Quezon City",00:44:01,7,33,2641.0
+LTFRB_1484,"Instruccion / Nicanor Roxas Intersection, Manila",LTFRB_3289,"Osmena, Binangonan, Manila",02:39:37,14,107,9577.0
+LTFRB_1668,"Marcelo H. del Pilar / Salas Intersection, Manila",LTFRB_2420,"Tirona Hwy, Bacoor City, Manila",01:21:48,6,44,4908.0
+LTFRB_1575,"Dr. Jose Fabella Memorial Hospital, Felix Huertas, Manila",LTFRB_3074,"Lawton Ave, Taguig City, Manila",01:08:30,8,28,4110.0
+LTFRB_4226,"Epifanio de los Santos Av, Mandaluyong City, Manila",LTFRB_659,"North Luzon Expressway, Valenzuela City",01:29:49,5,71,5389.0
+LTFRB_2150,"Ortigas Ave, San Juan, Manila",LTFRB_3282,"Ortigas Ave, Pasig City, Manila",00:15:33,1,9,933.0
+LTFRB_3574,"Martinez St / A. Bonifacio St Intersection, Antipolo City, Manila",LTFRB_3783,"Shoe Ave / Redwood Intersection, Marikina City, Manila",01:06:19,6,68,3979.0
+LTFRB_2054,"Philippine Cosmetic and Plastic Surgery, Shaw Blvd, Mandaluyong City, Manila",LTFRB_971,"J.P Rizal, Quezon City",01:22:35,10,62,4955.0
+LTFRB_2811,"Rizal St, Muntinlupa City, Manila",LTFRB_3221,"F.Manalo, Taguig City, Manila",01:28:41,5,67,5321.0
+LTFRB_1598,"Reina Regente / Dadivas Intersection, Manila",LTFRB_3431,"Ortigas Ave, Pagis City, Manila",01:10:47,5,28,4247.0
+LTFRB_250,"M. D. Del Pilar, Malabon City",LTFRB_987,"Commonwealth Avenue / Kalayaan A Intersection, Quezon City",01:27:02,7,68,5222.0
+LTFRB_2463,"Emilio Aguinaldo Hwy, Silang, Manila",LTFRB_3445,"Ortigas Avenue Extension, Cainta, Manila",04:14:50,17,175,15290.0
+LTFRB_2390,"Dr A. Santos Ave / President's Ave Intersection, Parañaque City, Manila",LTFRB_576,"Camarin Road, Caloocan City",03:02:07,20,105,10927.0
+LTFRB_1221,"Grant, Quezon City",LTFRB_2028,"Alchan, Mandaluyong City, Manila",01:25:13,12,69,5113.0
+LTFRB_3343,"Taytay-Angono Coastal Rd Intersection, Angono, Manila",LTFRB_3711,"Vista Verde Ave / Felix Ave Intersection, Cainta, Manila",00:56:00,3,39,3360.0
+LTFRB_728,"Lourdes / Petronia Street, Quezon City",STOP_880847,North Avenue MRT,02:04:48,11,100,7488.0
+LTFRB_2281,"Scout Chuatoco / S AA Intersection, Quezon City, Manila",LTFRB_2957,"Manuel L. Quezon / St Martin Ave Intersection, Taguig City, Manila",01:51:19,10,87,6679.0
+LTFRB_1175,"Pascual Memorial Elementary School, Quirino Highway, Quezon City",LTFRB_634,"Bagbaguin Family Hospital, Genteral Luis, Caloocan City",00:44:31,5,33,2671.0
+LTFRB_3423,"Riverside Dr, Pagis City, Manila",LTFRB_3974,"Santa Maria San Jose Rd, Santa Maria, Manila",03:32:01,14,162,12721.0
+LTFRB_2897,"DBP Ave, Taguig City, Manila, Manila",LTFRB_402,"P. Rada / Carman Planas Intersection, Manila",01:11:20,12,36,4280.0
+LTFRB_1352,"N. S. Amoranto Sr. Avenue / Don Jose Intersection, Quezon City",LTFRB_580,"Camarin Road near Gemini Interserction, Caloocan City",01:13:17,11,61,4397.0
+LTFRB_155,"J. P Rizal, Obando",LTFRB_2990,"Villa Monica Resort, M. Almeda, Pateros, Manila",02:23:20,17,94,8600.0
+LTFRB_2284,"Columbia / Cambridge INtersection, Quezon City, Manila",LTFRB_4483,"Carlos P. Garcia Ave, Taguig City, Manila",01:11:10,10,58,4270.0
+LTFRB_1076,"North Avenue, Quezon City",LTFRB_175,"Flamengco Street / F. Navarette Street Intersection, Malabon City",01:01:49,6,48,3709.0
+LTFRB_2622,"South Luzon Expressway / Montillano St Intersection, Muntinlupa City, Manila",LTFRB_2709,"South Luzon Expressway, Muntinlupa City, Manila",00:04:50,0,4,290.0
+LTFRB_183,"Don Bastilio Bautista Boulevard, Malabon City",LTFRB_2914,"F. Cruz / Clemente Jose Intersection, Lungsod ng Pasay, Manila",01:39:08,9,69,5948.0
+LTFRB_490,"Tatak Kubo / Langit Road Intersection, Caloocan City",LTFRB_614,"Topaz, Caloocan City",00:40:40,2,38,2440.0
+LTFRB_1771,"Legarda, Manila",LTFRB_1994,"Tejeron, Makati City, Manila",00:26:52,3,12,1612.0
+LTFRB_4655,"Nueve du Febrero, Mandaluyong City",LTFRB_906,"Montalban Highway / Kalantas Street Intersection, Rodriguez",02:07:35,15,100,7655.0
+LTFRB_289,"Dagat- Dagatan Avenue / Pusit Alley Intersection, Caloocan City",LTFRB_515,"National Mental Hospital, Barugo, Caloocan City",01:34:55,10,79,5695.0
+LTFRB_1348,"Banawe Avenue, Quezon City",LTFRB_2727,"South Luzon Expressway, San Pedro, Manila",02:58:21,15,76,10701.0
+LTFRB_1734,"F.B. Harrison St, Lungsod ng Pasay",LTFRB_568,"Nightingale / Quirino Highway Intersection, Caloocan City",01:59:51,12,85,7191.0
+LTFRB_659,"North Luzon Expressway, Valenzuela City",LTFRB_922,"Gen. A Luna, Rodriguez",02:06:03,13,88,7563.0
+LTFRB_3456,"Manila East Rd, Tatay, Manila",LTFRB_432,"Un-named Road, City of San Jose del Monte",02:59:53,10,126,10793.0
+LTFRB_3508,"Allspice Rd, Antipolo City, Manila",LTFRB_4526,"Governer's Drive,Dasmarinas City",04:34:18,28,191,16458.0
+LTFRB_1179,"Baesa Road, Quirino Highway, Quezon City",LTFRB_1834,"Kapiligan / Guirayan, Quezon City",00:46:45,6,35,2805.0
+LTFRB_1503,"Vicente G Cruz / Florentino Intersection, Manila",LTFRB_290,"Malabon Diesel Injection Service, Dagat- Dagatan Avenue, Caloocan City",00:44:19,5,32,2659.0
+LTFRB_1094,"Cherry Foodarama, Congressional Avenue, Quezon City",LTFRB_477,"Quirino Highway / Malaria Road Intersection, City of San Jose del Monte",01:18:20,11,46,4700.0
+LTFRB_2846,"National Hwy, Biñan City, Manila",LTFRB_308,"Caloocan High School, A. Del Mundo Street, Caloocan City",03:04:09,18,96,11049.0
+LTFRB_1320,"Mayon, Quezon City",LTFRB_4377,"St Joseph College of Novaliches, Congressional Road Extension, Caloocan City, Manila",01:11:20,6,62,4280.0
+LTFRB_1136,"North Luzon Expressway, Caloocan City",LTFRB_4750,"P Paterno, Quezon City",Infinite,-1,0,inf
+LTFRB_207,"C. Arellano Road, Malabon City, Gen. Luna St., Bgy. Ibaba, Malabon City",LTFRB_2762,"Governor's Drive, Carmona, Manila",03:34:49,16,99,12889.0
+LTFRB_3818,"E Rodriguez Ave / E Mendoza St Intersection, Marikina City, Manila",LTFRB_3869,"Pheonix Sun Business Park, Quezon City, Manila",00:33:56,5,31,2036.0
+LTFRB_3616,"Sumulong Hwy, Antipolo City, Manila",LTFRB_4647,"Fabella Road, Manaluyong City",01:05:41,8,39,3941.0
+LTFRB_1489,"Iba / Dapitan Intersrction, Manila",LTFRB_337,"Westminister High School / Tondo Hospital, North Bay Boulevard, Tondo",00:30:13,7,22,1813.0
+LTFRB_3073,"Lawton Ave, Taguig City, Manila",LTFRB_4335,"United Nations Ave / Tanque, Manila",00:56:59,10,35,3419.0
+LTFRB_1386,West Avenue / Baler  Intersection Quezon City,LTFRB_2862,"National Hwy, Muntinlupa City, Manila",02:50:52,17,81,10252.0
+LTFRB_1349,"Banawe Avenue, Quezon City",LTFRB_4064,"Unnamed Road / Del Monte Rd, City of San Jose del Monte, Manila",02:52:34,10,145,10354.0
+LTFRB_2393,"Dr A. Santos Ave, Parañaque City, Manila",LTFRB_2755,"Halang Rd, Biñan City, Manila",01:15:29,7,47,4529.0
+LTFRB_4617,"Multinational Avenue, Paranaque City",LTFRB_4781,"Glen T de Leon, Valenzuela City",Infinite,-1,0,inf
+LTFRB_4268,"Skyway, Makati City, Manila",LTFRB_4324,"Bautista / Dayap, Makati City, Manila",00:19:52,6,17,1192.0
+LTFRB_260,"P. Bonifacio Street / Caimito Road Intersection,  Malabon City",LTFRB_758,"San Jose / Quirino Highway Intersection, Calcoocan City",01:28:07,10,64,5287.0
+LTFRB_1495,"Blumentritt, Manila",LTFRB_1795,"Ramon Magsaysay Blvd, Manila",00:21:49,6,16,1309.0
+LTFRB_3203,"Lanuza Ave, Pasig City, Manila",LTFRB_425,"Quirino Highway, City of San Jose del Monte",02:52:10,18,122,10330.0
+LTFRB_3012,"A. Mabini St, Pasig City, Manila",LTFRB_862,"Payatas Road, Quezon City",01:50:41,10,89,6641.0
+LTFRB_4720,"Gen Ordonez Ave, Marikina City",LTFRB_5000,Pasay Road PNR ,Infinite,-1,0,inf
+LTFRB_1297,"Del Monte Avenue / Biak na Bato Intersection, Quezon City",LTFRB_4951,UN Ave LRT,Infinite,-1,0,inf
+LTFRB_1101,"Congressional Avenue / Golden Intersection, Quezon City",LTFRB_3282,"Ortigas Ave, Pasig City, Manila",01:07:18,10,54,4038.0
+LTFRB_2589,"Paliparan Rd, Lungsod ng Dasmariñas, Manila",LTFRB_3773,"F. Calderon, Marikina City, Manila",03:28:02,14,135,12482.0
+LTFRB_4513,"Alabang-Zapote Rd, Bacoor City, Manila",LTFRB_4695,"Elisco Road, Pasig City",01:50:19,14,80,6619.0
+LTFRB_2358,"NAIA Rd, Parañaque City, Manila",LTFRB_2441,"Emilio Aguinaldo Hwy, Lungsod ng Dasmariñas, Manila",01:48:39,5,68,6519.0
+LTFRB_2166,"PC Excellent Computer House, 13th Ave, Quezon City, Manila",LTFRB_3390,"Market Rd,  Taytay, Manila",01:04:25,6,52,3865.0
+LTFRB_1115,"Sauyo High School Extension, Pantabangan, Quezon City",LTFRB_486,"St Joseph, City of San Jose del Monte",01:37:01,11,62,5821.0
+LTFRB_4337,"Kaingin Road Bus Terminal, EDSA, Epifanio de los Santos Ave, Quezon City",LTFRB_7,"Balagtas Municipal Hall, MacArthur Highway, Balagtas",01:57:30,6,87,7050.0
+LTFRB_1794,"Ramon Magsaysay Blvd, Manila",LTFRB_3583,"Sumulong Hwy, Antipolo City, Manila",01:48:19,11,85,6499.0
+LTFRB_1358,"Banawe Avenue, Quezon City",LTFRB_3384,"Manila Road East, Taytay, Manila",02:00:19,16,90,7219.0
+LTFRB_1770,"Manuel Quezon University, R Hidalgo, Manila",LTFRB_4210,"Epifanio de los Santos Av, Quezon City, Manila",00:39:35,7,30,2375.0
+LTFRB_1976,"Senator Gil Puyat Ave, Makati City, Manila",LTFRB_200,"C. Arellano Road, Malabon City",01:27:32,13,57,5252.0
+LTFRB_1752,"L.Francisco, Lungsod ng Pasay",LTFRB_4118,"San Jose del Monte - Marilao Rd, Marilao, Manila",02:35:15,9,113,9315.0
+LTFRB_3038,"C. Raymundo Ave, Pasig City, Manila",LTFRB_597,"Kabatuhan, Caloocan City",02:00:58,14,102,7258.0
+LTFRB_3128,"P. Victor, Makati City, Manila",LTFRB_4036,"Quirino Highway, City of San Jose del Monte, Manila",03:15:17,18,141,11717.0
+LTFRB_2533,"Molino Rd, Bacoor City, Manila",LTFRB_2966,"M. L. Quezon St, Taguig City, Manila",01:50:00,6,71,6600.0
+FORT_1,"McKinley Parkway, Taguig City",LTFRB_1854,"P. Sanchez St, Manila",01:00:50,4,26,3650.0
+LTFRB_3900,"Santa Maria Bypass Rd, Santa Maria, Manila",LTFRB_4054,"Colegio de San Gabriel Arcangel, City of San Jose del Monte, Manila",01:09:22,0,64,4162.0
+LTFRB_2879,"National Hwy / Visayas St Intersection, Muntinlupa City, Manila",LTFRB_4497,"Teodoro Gener / K-1st, Quezon City, Manila",02:13:04,10,70,7984.0
+LTFRB_1153,"Epifanio de los Santos Avenue / Gen Malvar Intersection , Caloocan City",LTFRB_419,"Douglas Gas Station, Quirino Highway, City of San Jose del Monte",02:07:55,9,86,7675.0
+LTFRB_3840,"Bayan-Bayanan Ave / T. Bugallon St Intersection, Marikina City, Manila",LTFRB_4566,"Daang Reyna, Montinlupa City",02:52:13,9,130,10333.0
+LTFRB_1644,"Padre Burgos St, Manila",LTFRB_827,"Commonwealth Avenue, Quezon City",01:44:29,13,77,6269.0
+LTFRB_1501,"Espana Boulevard / Ruperto. S. Crsitobal Streett Intersection, Manila",LTFRB_2740,"South Luzon Expressway, Biñan City, Manila",03:15:26,13,78,11726.0
+LTFRB_55,"Land Bank, MacArthur Highway, City of Meycauayan",LTFRB_737,"Quirino Highway, Quezon City",01:07:14,10,59,4034.0
+LTFRB_4361,"Katipunan Ave, Quezon City, Manila",LTFRB_4410,"Greenhills Shopping Centre, Service Rd, San Juan, Manila",00:44:58,6,39,2698.0
+LTFRB_2494,"Emilio Aguinaldo Hwy, Imus, Manila",LTFRB_4433,"Mindanao Av, Quezon City, Manila",03:24:47,12,134,12287.0
+LTFRB_2595,"Pintong Gubat Elementary School, Pintong Gubat Elementary School",LTFRB_2759,"Governor's Drive, Carmona, Manila",02:38:00,4,107,9480.0
+LTFRB_3776,"E dela Paz St, Marikina City, Manila",LTFRB_4204,"Epifanio de los Santos Av, Quezon City, Manila",00:37:39,7,27,2259.0
+LTFRB_3443,"Ortigas Avenue Extension, Cainta, Manila",LTFRB_4983,Betty Go Belmonte LRT,Infinite,-1,0,inf
+LTFRB_4783,"Glen T de Leon, Valenzuela City",LTFRB_517,"Old Zabarte, Caloocan City",Infinite,-1,0,inf
+LTFRB_16,"Binang Elementary School, MacArthur Highway, Bocaue, Bulacan",LTFRB_2271,"E. Ma. Guerrero, Quezon City, Manila",02:18:54,14,109,8334.0
+LTFRB_3315,"Manila East Rd, Binangonan, Manila",LTFRB_4753,"Malanting, Quezon City",02:55:35,12,113,10535.0
+LTFRB_162,"F. Balagtas / M Jacinto, Obando",LTFRB_984,"Batasan Road, Quezon City",02:05:44,10,95,7544.0
+LTFRB_2274,"Roxas Ave, Quezon City, Manila",LTFRB_440,"Quirino Highway, City of San Jose del Monte",02:06:53,5,80,7613.0
+LTFRB_1515,"J. Barlin / P. Noval Intersection, Manila",LTFRB_4102,"San Jose del Monte - Marilao Rd, Marilao, Manila",02:13:39,6,106,8019.0
+LTFRB_2434,"Emilio Aguinaldo Hwy / Anabu Kostal Rd Intersection, Imus, Manila",LTFRB_3790,"Jacamar, Marikina City, Manila",03:10:49,18,124,11449.0
+LTFRB_1083,Road 1 / A27 Intersection Quezon City,LTFRB_1936,"M. dela Cruz St / Esguerra St Intersection, Lungsod ng Pasay, Manila",01:30:05,8,65,5405.0
+LTFRB_1077,"SM Hypermarket, North Avenue, Quezon City",LTFRB_428,"Un-named Road, City of San Jose del Monte",01:51:01,11,68,6661.0
+LTFRB_2593,"Paliparan Rd, Lungsod ng Dasmariñas, Manila",LTFRB_346,"Vitas, Velasquez, Tondo",03:06:07,13,133,11167.0
+LTFRB_1083,Road 1 / A27 Intersection Quezon City,LTFRB_2143,"Pinaglabanan Elementary School, Pinaglabanan, San Juan, Manila",00:44:38,5,26,2678.0
+LTFRB_194,Seventh Day Adventist Church,LTFRB_4994,Paco PNR,Infinite,-1,0,inf
+LTFRB_1906,"Revellin, Manila",LTFRB_1984,"Epifanio de los Santos Avenue / Senator Gil Puyat Ave, Makati City, Manila",00:19:08,2,14,1148.0
+LTFRB_3764,"A. Bonifacio Ave, Marikina City, Manila",LTFRB_570,"Novastop, Quirino Highway, Caloocan City",01:19:42,8,44,4782.0
+LTFRB_1992,"Epifanio de los Santos Avenue, Makati City, Manila",LTFRB_2392,"Dr A. Santos Ave, Parañaque City, Manila",01:14:31,8,32,4471.0
+LTFRB_3738,"J. P. Rizal St / Japan Avenue Intersection, Marikina City, Manila",LTFRB_481,"Barracks Road, City of San Jose del Monte",01:26:43,7,52,5203.0
+LTFRB_1740,"Jose Diokno Blvd, Lungsod ng Pasay",LTFRB_259,"P. Bonifacio Street / Mango Road Intersection,  Malabon City",01:14:20,7,52,4460.0
+LTFRB_4273,"PNR Vito Cruz Station, South Luzon Expressway, Makati City, Manila",LTFRB_4504,"Ung Siu Buddhist Temple, J. Teodoro / 6th Ave West, Caloocan City, Manila",00:51:02,5,28,3062.0
+LTFRB_156,"J. P Rizal / Hulo Intersection, Obando",LTFRB_4581,"Avacia Avenue, Montinlupa City",03:22:09,24,106,12129.0
+LTFRB_118,"Truo FX Terminal, Governor Fortunato Halili Avenue, Bocaue",LTFRB_787,"Quirino Highway, Calcoocan City",01:51:09,10,76,6669.0
+LTFRB_2111,"Judge Damien Jimenez / Kamuning Rd, Quezon City, Manila",LTFRB_3914,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",02:35:28,7,114,9328.0
+LTFRB_2594,"Paliparan Rd / Main Road Intersection, Lungsod ng Dasmariñas, Manila",LTFRB_697,"Maycauayan Camalig, City of Meycauayan",04:33:26,14,198,16406.0
+LTFRB_181,"Don Bastilio Bautista Boulevard, Malabon City",LTFRB_4079,"Unnamed Road, City of San Jose del Monte, Manila",02:55:00,9,137,10500.0
+LTFRB_1652,"Taft Ave / T.M. Kalaw Intersection, Manila",LTFRB_1752,"L.Francisco, Lungsod ng Pasay",00:27:02,3,13,1622.0
+LTFRB_2871,"Veterans' Bank, National Hwy, Muntinlupa City, Manila",LTFRB_4481,"Heritage Memorial Park, Carlos P. Garcia Ave, Taguig City, Manila",01:10:52,6,31,4252.0
+LTFRB_124,"New Bypass Road, Santa Maria",LTFRB_4489,"Padre Burgos St / Taft Ave, Manila",02:16:38,13,87,8198.0
+LTFRB_2728,"South Luzon Expressway, San Pedro, Manila",LTFRB_3159,"Buting Elementary School, M. Concepcion Ave, Pasig City, Manila",02:09:15,9,55,7755.0
+LTFRB_1390,"West Avenue / Bulletin Intersection, Quezon City",LTFRB_2924,"Airport Rd, Lungsod ng Pasay, Manila",01:17:01,9,46,4621.0
+LTFRB_1685,"President Quirino Ave / Madre Ignacia Intersection, Manila",LTFRB_3966,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",02:58:57,7,132,10737.0
+LTFRB_2263,"Magsaysay Ave / Tandang Sora Ave Intersection, Quezon City, Manila",LTFRB_3799,"Mayor Gil Fernando Ave / Marcos Highway Intersection, Marikina City, Manila",00:32:37,4,22,1957.0
+LTFRB_3437,"Ortigas Avenue Extension, Cainta, Manila",LTFRB_3928,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",03:36:16,12,162,12976.0
+LTFRB_256,"United Evangelical Church of Malabon, Gov. W. Pascual Avenue, Malabon City",LTFRB_676,"Maycauayan Camalig, City of Meycauayan",01:14:00,4,59,4440.0
+LTFRB_3610,"Sumulong Hwy, Antipolo City, Manila",LTFRB_640,"Genteral Luis / IRC Corporation Road Intersection, Caloocan City",01:55:25,14,81,6925.0
+LTFRB_2334,"Quirino Ave / T. Claudio Intersection, Parañaque City, Manila",LTFRB_2639,"Manuel L. Quezon, Muntinlupa City, Manila",01:13:32,3,50,4412.0
+LTFRB_1008,"University of The Phillippines - Ayala Land Technohub, Commonwealth Avenue, Quezon City",LTFRB_4452,"K-J / K-8th, Quezon City, Manila",00:20:31,2,16,1231.0
+LTFRB_1091,"Emensto Rondon High School, Road 3, Quezon City",LTFRB_3730,"Amang Rodriguez Ave, Pasig City, Manila",00:51:48,8,41,3108.0
+LTFRB_2909,"South Luzon Expressway, Makati City, Manila",LTFRB_4000,"Santa Maria San Jose Rd, Santa Maria, Manila",03:50:54,14,174,13854.0
+LTFRB_407,"Quezon / Herbosa Intersection, Manila",LTFRB_635,"Genteral Luis near Bagbaguin Public Cemetary,  Caloocan City",01:22:03,10,63,4923.0
+LTFRB_409,"Bigte Private Market, Quirino Highway, City of San Jose del Monte",LTFRB_4726,"Horsehsoe Street, Marikina City",02:35:12,11,123,9312.0
+LTFRB_2370,"Ninoy Aquino Ave, Parañaque City, Manila",LTFRB_3410,"Fernandez St, Cainta, Manila",01:50:47,16,75,6647.0
+LTFRB_1606,"Numancia / Muelle Dela Industria Intersection, Manila",LTFRB_2269,"Magsaysay Ave / Roces St Intersection, Quezon City, Manila",01:07:00,14,46,4020.0
+LTFRB_2344,"Domestic Rd, Lungsod ng Pasay, Manila",LTFRB_4711,"L Wood Rd, Cainta",01:46:44,15,68,6404.0
+LTFRB_210,"Sacristan / C. Arellano Road Intersection, Malabon City",LTFRB_3064,"Carlos P. Garcia Ave, Taguig City, Manila",01:48:27,12,76,6507.0
+LTFRB_3293,"University of Rizal System, University of Rizal System",LTFRB_3562,"Sto. Niño St,  Antipolo City, Manila",01:24:28,7,69,5068.0
+LTFRB_3382,"Manila Road East, Taytay, Manila",LTFRB_3784,"Shoe Ave, Marikina City, Manila",00:58:17,5,38,3497.0
+LTFRB_1060,"Mindanao Avenue / Don Vicente Intersection, Quezon City",LTFRB_4574,"Daang Reyna, Montinlupa City",02:58:35,18,105,10715.0
+LTFRB_1340,"D Tuazon / Don Manuel Agregado Intersection, Quezon City",LTFRB_4248,"Don Placido Campos Av, Dasmariñas City, Manila",03:08:47,17,109,11327.0
+LTFRB_3239,"J.B. Miguel / F. Manalo Intersection, Pasig City, Manila",LTFRB_4486,"Juan Luna Monument, General Luna St, Manila",01:15:13,10,57,4513.0
+LTFRB_36,"Shepard's College (Legaspi College) MacArthur Highway, Marilao",LTFRB_4378,"Congressional Road Extension / Rainbow Ave, Quezon City, Manila",01:32:04,12,85,5524.0
+LTFRB_1907,"Estrada / Arellano Ave Intersection, Manila",LTFRB_277,"Letre Road / Sanciangco Street, Malabon City",01:05:46,11,49,3946.0
+LTFRB_3598,"Sumulong Hwy, Antipolo City, Manila",LTFRB_760,"Kaymito / Quirino Highway Intersection, Calcoocan City",02:08:10,8,88,7690.0
+LTFRB_1054,"Quirino Highway / Goodwill Homes 2 Intersection, Quezon City",LTFRB_2944,"Lawton Ave, Taguig City, Manila",01:51:55,12,97,6715.0
+LTFRB_1823,"Manga Ave / Buenos Aires Street Intersection, Manila",LTFRB_2844,"National Hwy, Biñan City, Manila",02:50:39,18,79,10239.0
+LTFRB_3381,"Manila Road East / Dela Cuesta Intersection, Taytay, Manila",LTFRB_4051,"Unnamed Road Near Quirino Highway, City of San Jose del Monte, Manila",03:30:47,10,135,12647.0
+LTFRB_3637,"Marcos Hwy, Antipolo City, Manila",LTFRB_4607,"Soldiers Hills IV, Bacoor City",03:40:01,12,170,13201.0
+LTFRB_1489,"Iba / Dapitan Intersrction, Manila",LTFRB_150,"Joaquin, Obando",01:16:42,10,62,4602.0
+LTFRB_2368,"Ninoy Aquino Ave, Parañaque City, Manila",LTFRB_2936,"Innove Makati, Chino Roces Ave, Makati City, Manila",00:35:32,8,27,2132.0
+LTFRB_3390,"Market Rd,  Taytay, Manila",LTFRB_4011,"Sapang Palay - Muzon Road, City of San Jose del Monte, Manila",03:48:49,13,155,13729.0
+LTFRB_2105,"Timog Ave / Scout Tuason Intersection, Quezon City, Manila",LTFRB_436,"Un-named Road, City of San Jose del Monte",02:15:44,12,88,8144.0
+LTFRB_104,"Ever Gotesco Grand Central, Rizal Avenue, Caloocan City",LTFRB_4650,"Nueve du Febrero, Mandaluyong City",01:02:15,9,33,3735.0
+LTFRB_1677,"President Quirino Ave / Taft Ave Intersection, Manila",LTFRB_1790,"Arlegui, Manila",00:20:45,3,11,1245.0
+LTFRB_3937,"Nuestra Senora del Carmen Academy, Santa Maria, Manila",LTFRB_674,"Maycauayan Camalig, City of Meycauayan",01:31:10,2,77,5470.0
+LTFRB_3071,"Carlos P. Garcia Ave, Makati City, Manila",LTFRB_45,"Calvario Elementary School, MacArthur Highway, City of Meycauayan",02:11:34,18,88,7894.0
+LTFRB_2002,"Nicanor Garcia / Ascuncion Intersection, Makati City, Manila",LTFRB_3540,"Ortigas Avenue Extension, Antipolo City, Manila",01:20:41,9,64,4841.0
+LTFRB_2579,"Paliparan Rd, Lungsod ng Dasmariñas, Manila",LTFRB_3668,"Un-named road near Marcos Hwy, Antipolo City, Manila",04:08:48,15,168,14928.0
+LTFRB_3584,"Sumulong Hwy, Antipolo City, Manila",LTFRB_4115,"San Jose del Monte - Marilao Rd, Marilao, Manila",03:24:51,14,155,12291.0
+LTFRB_255,"Gov. W. Pascual Avenue / Industrial Avenue Intersection, Malabon City",LTFRB_2874,"National Hwy, Muntinlupa City, Manila",02:38:33,17,70,9513.0
+LTFRB_1528,"Oroquieta, Manila",LTFRB_1608,"Dasmariñas / Juan Luna Intersection, Manila",00:09:39,4,9,579.0
+LTFRB_4484,"Maria Y. Orosa St, Manila",LTFRB_4957,Blumentritt LRT,Infinite,-1,0,inf
+LTFRB_1366,"Quezon Avenue, Quezon City",LTFRB_2964,"Adia Bagumbayan Manuel L. Quezon / Victorio Cruz Intersection, Taguig City, Manila",01:45:38,8,74,6338.0
+LTFRB_1275,"Tuktukan / Corumi Intersection, Quezon City",LTFRB_2664,"Pacific Twine & Net Manufacturing Company, Pacific Twine & Net Manufacturing",02:10:01,19,76,7801.0
+LTFRB_375,"Manila Faith Assembly of God, Juan Luma, Manila",LTFRB_916,"MH del Pilar Street, Rodriguez",02:19:33,19,106,8373.0
+LTFRB_32,"Marliao Fire Station, MacArthur Highway, Marilao",LTFRB_3801,"Sumulong Hwy, Marikina City, Manila",02:17:41,19,114,8261.0
+LTFRB_3521,"Southridge Private High School, near L. Sumulong Memorial Cir, Antipolo City, Manila",LTFRB_3853,"Lilac St, Marikina City, Manila",01:34:21,7,86,5661.0
+LTFRB_326,"Teodoro, Caloocan City",LTFRB_3386,"Manila Road East / Talisay Intersection, Taytay, Manila",01:58:15,13,74,7095.0
+LTFRB_2021,"Dr Jose P. Rizal Ave, Makati City, Manila",LTFRB_759,"Quirino Highway, Calcoocan City",02:11:15,17,94,7875.0
+LTFRB_3914,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",LTFRB_926,"Gen. A Luna / Catherine Street Intersection, San Mateo",03:27:19,17,147,12439.0
+LTFRB_2807,"J Barrera St,  Muntinlupa City, Manila",LTFRB_449,"Un-named Road, City of San Jose del Monte",04:36:40,27,146,16600.0
+LTFRB_3717,"Felix Ave, Cainta, Manila",LTFRB_612,"Susano, Caloocan City",01:29:00,6,67,5340.0
+LTFRB_2850,"National Hwy, San Pedro, Manila",LTFRB_3547,"Ortigas Avenue Extension / Diamond Intersection, Tatay, Manila",02:58:51,11,153,10731.0
+LTFRB_2781,"Governor's Drive, Carmona, Manila",LTFRB_3853,"Lilac St, Marikina City, Manila",04:21:10,14,181,15670.0
+LTFRB_2808,"C Arellano St, Muntinlupa City, Manila",LTFRB_2876,"National Hwy, Muntinlupa City, Manila",00:21:52,0,20,1312.0
+LTFRB_1384,"Quezon Avenue / West Avenue Intersection, Quezon City",LTFRB_458,"C.E.M Bus Station, Quirino Highway, City of San Jose del Monte",01:47:52,11,68,6472.0
+LTFRB_1045,"Quirino Highway, Quezon City",LTFRB_3469,"Un- named road near J. Sumulong Rd, Teresa, Manila",02:58:05,18,154,10685.0
+LTFRB_1893,"Robinson's Place - Otis, Manila",LTFRB_238,"M. Naval / Daanghari Intersection, City of Navotas",01:03:20,8,46,3800.0
+LTFRB_2691,"Alvarez Extension, Las Piñas City, Manila",LTFRB_3957,"Norzagaray-Santa Maria Bulacan, Santa Maria, Manila",05:08:50,15,226,18530.0
+LTFRB_2309,"Manila-Cavite Expressway, Parañaque City, Manila",LTFRB_4548,"Daang Reyna, Montinlupa City",01:58:46,5,79,7126.0
+LTFRB_2889,"South Luzon Expressway, Parañaque City, Manila",LTFRB_3317,"Manila East Rd, Binangonan, Manila",02:25:26,10,88,8726.0
+LTFRB_2431,"Emilio Aguinaldo Hwy, Imus, Manila",LTFRB_2717,"South Luzon Expressway / Gen Paulino Santos Ave Intersection, Muntinlupa City, Manila",01:53:39,3,75,6819.0
+LTFRB_366,"Matrinez Memorial College, A. Mabini Avenue, Juan Luna, Caloocan City",LTFRB_3735,"J. P. Rizal St, San Mateo, Manila",01:37:23,11,74,5843.0
+LTFRB_3436,"Ortigas Avenue Extension, Cainta, Manila",LTFRB_4434,"Mindanao Av, Quezon City, Manila",01:30:43,7,70,5443.0
+LTFRB_1510,"Alfonso Mendoza, Manila",LTFRB_4595,"Bridgeway, Montinlupa City",01:58:51,12,40,7131.0
+LTFRB_561,"Zabarte Road / Robin Intersection, Caloocan City",LTFRB_651,Genteral Luis / Reliance Road Intersection Valenzuela City,00:25:01,4,22,1501.0
+LTFRB_3385,"Coca-Cola Warehouse, Manila Road East, Taytay, Manila",LTFRB_3778,"E dela Paz St, Marikina City, Manila",00:57:28,7,38,3448.0
+LTFRB_1505,"M. dela Fuente, Manila",LTFRB_1514,"Juaning / Dapitan Intersection, Manila",00:04:10,1,4,250.0
+LTFRB_309,"A. Del Mundo Street / 8th Avenue West Intersection, Caloocan City",LTFRB_4171,"North Luzon Expressway, Marilao, Manila",01:24:42,8,62,5082.0
+LTFRB_2198,"Kamias Rd / Anonas Extension Intersection, Quezon City, Manila",LTFRB_3553,"L. Sumulong Memorial Cir,  Antipolo City, Manila",01:30:47,12,76,5447.0
+LTFRB_157,"San Pascual Elementary School, J. P Rizal, Obando",LTFRB_880,"Payatas Road, Rodriguez",02:40:04,10,128,9604.0
+LTFRB_2035,"Primo Cruz / Ballesteros Intersection, Mandaluyong City, Manila",LTFRB_2840,"National Hwy, Biñan City, Manila",02:44:16,11,85,9856.0
+LTFRB_3665,"Un-named road near Marcos Hwy, Antipolo City, Manila",LTFRB_4488,"Padre Burgos St, Manila",02:08:42,12,91,7722.0
+LTFRB_2104,"Timog Ave / Scout Santiago Intersection, Quezon City, Manila",LTFRB_4823,"M H del Pilar Street, Rodriguez",01:50:49,9,86,6649.0
+LTFRB_1537,"Oroquieta / Alvarez Intersection, Manila",LTFRB_545,"Sto. Nino de Maligaya, Sampaguita, Caloocan City",01:30:27,12,73,5427.0
+LTFRB_1472,"Department of Health, Razal Avenue, Manila",LTFRB_809,"Regalado Highway, Quezon City",01:28:39,13,70,5319.0
+LTFRB_3470,"Un- named road near J. Sumulong Rd, Teresa, Manila",LTFRB_4558,"Daang Reyna, Montinlupa City",Infinite,-1,0,inf
+LTFRB_1406,"Sitio San Roque / Central Terminal Road Intersection, Agham (North Triangle), Quezon City",LTFRB_1563,"Antonio Rivera, Manila",00:46:09,9,40,2769.0
+LTFRB_3814,"2nd St / E Mendoza St Intersection, Marikina City, Manila",LTFRB_4209,"Ramon Magsaysay High School, Quezon City, Manila",00:43:32,10,34,2612.0
+LTFRB_3178,"Pasig Boulevard Extension, Pasig City, Manila",LTFRB_3602,"Sumulong Hwy, Antipolo City, Manila",01:10:56,5,55,4256.0
+LTFRB_2002,"Nicanor Garcia / Ascuncion Intersection, Makati City, Manila",LTFRB_4230,"MMDA EDSA-Robinsons Ortigas Bus Terminal Northbound, Epifanio de los Santos Av, Mandaluyong City, Ma",00:28:46,1,19,1726.0
+LTFRB_2665,Pacific Twine & Net Manufacturing,LTFRB_4331,"D Romualdez Sr, Manila",01:33:56,8,56,5636.0
+LTFRB_4319,"Pablo Ocampo Sr, Makati City, Manila",LTFRB_4629,"Multinational Avenue, Paranaque City",00:16:58,2,13,1018.0
+LTFRB_3261,"A. Sandoval Ave, Pasig City, Manila",LTFRB_4175,"North Luzon Expressway, Marilao, Manila",02:28:02,15,111,8882.0
+LTFRB_1963,"A. Arnaiz Ave / Pasay Road Intersection, Makati City, Manila",LTFRB_4484,"Maria Y. Orosa St, Manila",00:31:55,5,18,1915.0
+LTFRB_2225,"J.P. Rizal, Quezon City, Manila",LTFRB_4468,"Vista Verde Ave Extension 2 / Unnamed Rd, Caita, Manila",00:37:10,5,24,2230.0
+LTFRB_3238,"J.B. Miguel, Pasig City, Manila",LTFRB_4256,"Governor's Dv, Dasmariñas City, Manila",03:26:53,21,139,12413.0
+LTFRB_2698,"GSIS Rd, Bacoor City, Manila",LTFRB_3491,"Roman Rojas Rd, Teresa, Manila",03:40:39,18,165,13239.0
+LTFRB_1272,"Kaingin Road, Quezon City",LTFRB_4252,"Governor's Dv, Dasmariñas City, Manila",03:33:38,24,124,12818.0
+LTFRB_3269,"A. Sandoval Ave / Sapphire Intersection, Pasig City, Manila",LTFRB_820,"Regalado Highway, Quezon City",01:56:10,10,82,6970.0
+LTFRB_1775,"Carlos Palanca Sr, Manila",LTFRB_4629,"Multinational Avenue, Paranaque City",00:29:53,6,20,1793.0
+LTFRB_1400,"Childrens Medical Center, Quezon Avenue, Quezon City",LTFRB_3145,"Makati Aqua Sports Arena, Dr Jose P. Rizal Extension, Makati City, Manila",00:56:53,8,49,3413.0
+LTFRB_2680,"Marcos Alvarez Ave, Las Piñas City, Manila",LTFRB_292,"Dagat- Dagatan Avenue /  Tanigue Intersection, Caloocan City",02:23:07,13,90,8587.0
+LTFRB_4414,"Connecticut St / Missouri St, San Juan, Manila",LTFRB_641,"Bagabaguin Road, Caloocan City",01:19:56,8,61,4796.0
+LTFRB_1227,"Town and Country Gardenville, Congressional Avenue, Quezon City",LTFRB_1622,"Padre Burgos St, Manila",00:53:20,6,46,3200.0
+LTFRB_1343,"D Tuazon / Sct. D. M Alcaraz Intersection, Quezon City",LTFRB_95,"CDC Manufacturing, MacArthur Highway, Malabon City",00:29:28,6,23,1768.0
+LTFRB_3305,"Manila East Rd, Binangonan, Manila",LTFRB_4769,"Damong Maliit Road, Caloocan City",03:10:39,13,133,11439.0
+LTFRB_2484,"Emilio Aguinaldo Hwy, Imus, Manila",LTFRB_2907,"South Luzon Expressway, Taguig City, Manila",01:39:38,6,64,5978.0
+LTFRB_3597,"Sumulong Hwy, Antipolo City, Manila",LTFRB_803,"Ascencion Avenue / Zagala Intersection, Quezon City",01:51:42,8,80,6702.0
+LTFRB_1144,"Malolos Avenue / Milagrosa Intersection, Caloocan City",LTFRB_4038,"Quirino Highway, City of San Jose del Monte, Manila",02:26:22,11,103,8782.0
+LTFRB_2318,"Manila-Cavite Expressway, Las Piñas City, Manila",LTFRB_4639,"Benavidez Street, Makati City",01:00:14,7,33,3614.0
+LTFRB_1303,"San Jose D Tuazon, Quezon City",LTFRB_2677,"Vector Two, Northgate Ave, Muntinlupa City, Manila",02:18:34,19,51,8314.0
+LTFRB_3175,"Lakeview Dr / Pasig Blvd Intersection, Pasig City, Manila",LTFRB_4024,"Bagong Buhay H Elementary School, City of San Jose del Monte, Manila",Infinite,-1,0,inf
+LTFRB_2625,"Manuel L. Quezon, Muntinlupa City, Manila",LTFRB_3833,"Bautista / Gen. B. G. Molina Intersection, Marikina City, Manila",02:20:52,8,113,8452.0
+LTFRB_2345,"Domestic Rd, Lungsod ng Pasay, Manila",LTFRB_3167,"Shaw College, Shaw Blvd, Manila",00:51:28,8,30,3088.0
+LTFRB_2294,"Diosdado Macapagal Blvd, Lungsod ng Pasay, Manila",LTFRB_2591,"Paliparan Rd, Lungsod ng Dasmariñas, Manila",01:56:59,6,88,7019.0
+EDSA_15,EDSA Carousel Bus Stop - Taft Ave.,LTFRB_3151,"Dr Jose P. Rizal Extension, Makati City, Manila",Infinite,-1,0,inf
+LTFRB_3428,"Ortigas Ave / Melbourne Intersection, Pagis City, Manila",LTFRB_4971,Boni MRT ,00:54:19,9,32,3259.0
+LTFRB_2914,"F. Cruz / Clemente Jose Intersection, Lungsod ng Pasay, Manila",LTFRB_517,"Old Zabarte, Caloocan City",02:26:08,19,95,8768.0
+LTFRB_1190,"Roxas, Quirino Highway, Quezon City",LTFRB_2153,"Ortigas Ave, San Juan, Manila",01:20:38,10,64,4838.0
+LTFRB_1057,"Quirino Highway / Mindanao Avenue Intersection, Quezon City",LTFRB_1334,"Quezon Avenue / D Tuazon Intersection, Quezon City",00:46:31,2,38,2791.0
+LTFRB_1249,"Calumpit / Bansalangin Intersection, Quezon City",LTFRB_2395,"Dr A. Santos Ave, Parañaque City, Manila",02:06:23,14,80,7583.0
+LTFRB_2912,"South Luzon Expressway, Makati City, Manila",LTFRB_54,"MacDonalds, MacArthur Highway, City of Meycauayan",01:57:54,12,72,7074.0
+LTFRB_3286,"Osmena, Binangonan, Manila",LTFRB_329,"North Bay Boulevard / Lacson Intersection, City of Navotas",03:09:38,19,116,11378.0
+LTFRB_2211,"Narra, Quezon City, Manila",LTFRB_3062,"Carlos P. Garcia Ave, Taguig City, Manila",01:04:29,7,42,3869.0
+EDSA_3,EDSA Carousel Bus Stop - Ayala,LTFRB_2887,"South Luzon Expressway, Taguig City, Manila",Infinite,-1,0,inf
+LTFRB_2430,"Emilio Aguinaldo Hwy, Imus, Manila",LTFRB_4498,"Tomas Morato Elementary School, L. Siangio / Teodoro Gener, Quezon City, Manila",02:30:16,12,92,9016.0
+LTFRB_1808,"Vicente G Cruz, Manila",LTFRB_3297,"Osmena, Binangonan, Manila",02:40:57,10,100,9657.0
+LTFRB_2570,"Molino-Paliparan Rd, Bacoor City, Manila",LTFRB_757,"Crispulo Street / Quirino Highway Intersection, Calcoocan City",04:08:53,21,167,14933.0
+LTFRB_3164,"Reliance St, Mandaluyong City, Manila",LTFRB_3423,"Riverside Dr, Pagis City, Manila",00:40:38,6,30,2438.0
+LTFRB_2396,"NAIA Rd, Parañaque City, Manila",LTFRB_478,"Malaria Road / Purok 2 Intersection, City of San Jose del Monte",02:52:07,19,117,10327.0
+LTFRB_2894,"E Service Rd, Parañaque City, Manila",LTFRB_592,"Emerald / Kabatuhan Intersection, Caloocan City",02:39:17,17,98,9557.0
+EDSA_19,EDSA Carousel Bus Stop - Tramo,LTFRB_2401,"Maria, Parañaque City, Manila",Infinite,-1,0,inf
+LTFRB_1095,"Starbucks, Congressional Avenue, Quezon City",LTFRB_1494,"Blumentritt / Pity Margal Intersection, Manila",00:50:12,7,34,3012.0
+LTFRB_3714,"Felix Ave, Cainta, Manila",LTFRB_3988,"Catmon Barangay Hall, Santa Maria, Manila",03:37:36,12,164,13056.0
+LTFRB_1020,"Visayas Avenue / A. Limqueco Intersection, Quezon City",LTFRB_3964,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",02:31:38,6,114,9098.0
+LTFRB_1779,"R Hidalgo, Manila",LTFRB_1829,"Blak na Bato, Quezon City",00:22:43,3,15,1363.0
+LTFRB_3613,"Sumulong Hwy, Antipolo City, Manila",LTFRB_4211,"Epifanio de los Santos Av, Quezon City, Manila",00:53:08,8,42,3188.0
+LTFRB_2173,"APAC Customer Services, Inc., P. Tuazon Blvd, Quezon City, Manila",LTFRB_3655,"Marcos Hwy / Amb F. Neri Intersection, Antipolo City, Manila",01:01:52,6,40,3712.0
+LTFRB_1126,"North Luzon Expressway, Valenzuela City",LTFRB_4090,"San Jose del Monte - Marilao Rd, City of San Jose del Monte, Manila",01:40:26,1,85,6026.0
+LTFRB_171,"J. P Rizal, Obando",LTFRB_3563,"M Santos St, Antipolo City, Manila",02:50:00,21,136,10200.0
+LTFRB_1907,"Estrada / Arellano Ave Intersection, Manila",LTFRB_4066,"Unnamed Road, City of San Jose del Monte, Manila",03:17:29,9,155,11849.0
+LTFRB_2683,"Marcos Alvarez Ave, Las Piñas City, Manila",LTFRB_4952,Central Terminal LRT,Infinite,-1,0,inf
+LTFRB_4146,"North Luzon Expressway, Marilao, Manila",LTFRB_4583,"Madrigal Avenue, Montinlupa City",03:42:59,23,106,13379.0
+LTFRB_2390,"Dr A. Santos Ave / President's Ave Intersection, Parañaque City, Manila",LTFRB_2936,"Innove Makati, Chino Roces Ave, Makati City, Manila",00:53:37,5,24,3217.0
+LTFRB_1551,"Claro M. Recto Ave / Jose Abad Santos Ave. Intersection, Manila",LTFRB_2294,"Diosdado Macapagal Blvd, Lungsod ng Pasay, Manila",00:52:29,11,32,3149.0
+LTFRB_4352,"Katipunan Ave, Quezon City, Manila",LTFRB_821,"Regalado Highway / Commonwealth Avenue Intersection, Quezon City",01:12:15,5,46,4335.0
+LTFRB_1417,"Norberto S. Amoranto Street / Calavite Intersection, Quezon City",LTFRB_3951,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",02:50:21,5,144,10221.0
+LTFRB_2704,"Queen's Main Ave, Bacoor City, Manila",LTFRB_3928,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",04:54:07,16,205,17647.0
+FORT_5,"Stopover, Taguig City",LTFRB_301,"Poblacion Market, Caloocan City",01:30:41,16,56,5441.0
+LTFRB_2799,"F. de Castro Elementary School, Congressional Rd,  General Mariano Alvarez, Manila",LTFRB_3028,"Dr Sixto Antonio Ave, Pasig City, Manila",03:10:59,9,129,11459.0
+LTFRB_2424,"Yellow Cab Pizza, Emilio Aguinaldo Hwy, Bacoor City, Manila",LTFRB_3861,"Lawaan St, Marikina City, Manila",02:58:52,16,116,10732.0
+LTFRB_1107,"Ambuklao, Quezon City",LTFRB_2357,"P. Dandan / Quirino Ave Intersection, Parañaque City, Manila",02:01:37,15,90,7297.0
+LTFRB_1185,"Baesa Road / Julieta Street Intersection, Quirino Highway, Quezon City",LTFRB_378,"F. Benitez Elementary School, Juan Luma, Caloocan City",00:42:27,8,38,2547.0
+LTFRB_2247,"National Kidney and Transplant Institute, East Ave, Quezon City, Manila",LTFRB_805,"Bristol Street, Quezon City",00:59:42,3,35,3582.0
+LTFRB_3626,"Marcos Hwy, Antipolo City, Manila",LTFRB_4675,"Evangelista Street, Manila City",Infinite,-1,0,inf
+LTFRB_2902,"Food Terminal Incorporated, DBP Ave, Taguig City, Manila, Manila",LTFRB_4377,"St Joseph College of Novaliches, Congressional Road Extension, Caloocan City, Manila",02:33:44,19,93,9224.0
+LTFRB_423,"Quirino Highway, City of San Jose del Monte",LTFRB_856,"Payatas Road, Quezon City",01:39:42,7,79,5982.0
+LTFRB_192,"N Naval, Malabon City",LTFRB_4372,"P. Velasquez St / Quirino Av, Quezon City, Manila",01:21:17,11,59,4877.0
+LTFRB_3042,"C. Raymundo Ave, Pasig City, Manila",LTFRB_3208,"Eulogio Rodriguez Jr Ave / Doña Julia Vargas Ave Intersection, Pasig City, Manila",00:17:17,2,14,1037.0
+LTFRB_1405,"Sitio San Roque, Agham (North Triangle), Quezon City",LTFRB_2347,"Conrad's Cafre and Grill, Domestic Rd, Lungsod ng Pasay, Manila",01:37:53,15,72,5873.0
+LTFRB_2242,"Kalayaan Ave, Quezon City, Manila",LTFRB_836,"Commonwealth Avenue / Fairlane Intersection, Quezon City",00:53:30,5,33,3210.0
+LTFRB_1160,"5th Street / Macbagdal Intersection, Caloocan City",LTFRB_4766,"Damong Maliit Road, Caloocan City",01:01:02,5,49,3662.0
+LTFRB_3416,"5th Avenue, Pagis City, Manila",LTFRB_4081,"Colegio de San Jose del Monte, City of San Jose del Monte, Manila",03:30:52,14,170,12652.0
+LTFRB_3984,"Santa Maria San Jose Rd, Santa Maria, Manila",LTFRB_641,"Bagabaguin Road, Caloocan City",01:56:57,3,94,7017.0
+LTFRB_2301,"Roxas Blvd / Redemptorist Road Intersection, Parañaque City, Manila",LTFRB_2603,"Dasmariñas (DBB) Elementary School, Congressional Rd, Lungsod ng Dasmariñas, Manila",02:15:56,6,78,8156.0
+LTFRB_2775,"Governor's Drive, Carmona, Manila",LTFRB_4504,"Ung Siu Buddhist Temple, J. Teodoro / 6th Ave West, Caloocan City, Manila",03:41:08,16,102,13268.0
+LTFRB_2006,"Kalayaan Ave / South Ave Intersection, Makati City, Manila",LTFRB_2483,"Emilio Aguinaldo Hwy / Holiday Ave Intersection, Imus, Manila",01:40:12,7,71,6012.0
+LTFRB_3549,"Ortigas Avenue Extension, Tatay, Manila",LTFRB_4116,"San Jose del Monte - Marilao Rd, Marilao, Manila",03:09:34,13,147,11374.0
+LTFRB_2132,"12th / Dona Juana S. Rodriguez Ave Intersection, Quezon City, Manila",LTFRB_4297,"Pacita Commercial Centre, San Pedro, Manila",02:57:08,19,91,10628.0
+LTFRB_3715,"Felix Ave, Cainta, Manila",LTFRB_731,"Quirino Highway, Quezon City",01:29:10,6,67,5350.0
+LTFRB_4435,"Monte de Piedad St / Sgt. J. Catolos, Quezon City, Manila",LTFRB_54,"MacDonalds, MacArthur Highway, City of Meycauayan",01:26:44,8,64,5204.0
+LTFRB_1639,"Padre Burgos St, Manila",LTFRB_3345,"Velasquez St, Taytay, Manila",01:49:07,8,55,6547.0
+LTFRB_3472,"Un- named road near J. Sumulong Rd, Teresa, Manila",LTFRB_94,"Calalang General Hospital, MacArthur Highway, Malabon City",Infinite,-1,0,inf
+LTFRB_2716,"South Luzon Expressway, Muntinlupa City, Manila",LTFRB_4333,"D Romualdez Sr / Zobel, Manila",02:02:55,12,53,7375.0
+LTFRB_2074,"Quezon Institute, Eulogio Rodriguez Sr Ave, Quezon City, Manila",LTFRB_2258,"BIR Rd, Quezon City, Manila",00:28:39,5,21,1719.0
+LTFRB_2687,"Marcos Alvarez Ave / Alvarez Extension Intersection, Las Piñas City, Manila",LTFRB_2788,"Congressional Rd,  General Mariano Alvarez, Manila",02:19:56,4,81,8396.0
+LTFRB_1118,"North Luzon Expressway, Valenzuela City",LTFRB_1750,"P. Villanueva, Lungsod ng Pasay",01:30:23,14,49,5423.0
+LTFRB_2776,"Governor's Drive, Carmona, Manila",LTFRB_364,"4th Avenue / Nadurata Intersection, Caloocan City",03:41:36,17,104,13296.0
+LTFRB_2449,"Emilio Aguinaldo Hwy, Lungsod ng Dasmariñas, Manila",LTFRB_2461,"Emilio Aguinaldo Hwy, Silang, Manila",00:31:58,0,27,1918.0
+LTFRB_132,"Santa Maria General Hospital, JC De Jesus Street, Santa Maria",LTFRB_2265,"University Ave, Quezon City, Manila",02:17:06,10,99,8226.0
+LTFRB_4536,"Pedro Escueta Street, Binan City",LTFRB_585,"Deparo Road / Golden Shower Intersection, Caloocan City",Infinite,-1,0,inf
+LTFRB_285,"Circimferential Road 4, Malabon City",LTFRB_756,"Quirino Highway, Calcoocan City",01:46:43,11,75,6403.0
+LTFRB_1742,"Epifanio de los Santos Avenue, Lungsod ng Pasay",LTFRB_3629,"Marcos Hwy, Antipolo City, Manila",02:22:07,10,93,8527.0
+LTFRB_4083,"TRF Hotel, City of San Jose del Monte, Manila",LTFRB_929,"Gen. A Luna / Buenviaje Street Intersection, San Mateo",03:24:48,12,175,12288.0
+LTFRB_1636,"Antonio C. Delgado / 13th St Intersection, Manila",LTFRB_4671,"Sta Maria, Manila City",00:24:03,4,23,1443.0
+LTFRB_1740,"Jose Diokno Blvd, Lungsod ng Pasay",LTFRB_4360,"Katipunan Ave, Quezon City, Manila",01:38:30,12,58,5910.0
+LTFRB_2335,"Airport Rd / Domestic Rd Intersection, Parañaque City, Manila",LTFRB_3430,"Ortigas Ave, Pagis City, Manila",01:12:43,11,38,4363.0
+LTFRB_2797,"General Mariano Alvarez, Manila",LTFRB_4422,"Col. Bonny Serrano Ave, Quezon City, Manila",03:29:40,12,101,12580.0
+LTFRB_1031,"Tandang Sora, Quezon City",LTFRB_2029,"Coronado, Mandaluyong City, Manila",01:21:02,10,52,4862.0
+LTFRB_2749,"General Malvar St, Biñan City, Manila",LTFRB_4323,"Ozzy Car Spa, Bautista / Calatang, Makati City, Manila",02:31:46,16,87,9106.0
+LTFRB_2443,"Emilio Aguinaldo Hwy, Lungsod ng Dasmariñas, Manila",LTFRB_4492,"T.M. Kalaw, Manila",02:28:40,6,91,8920.0
+LTFRB_1918,"Finlandia / Dian Intersection, Manila",LTFRB_4084,"San Jose del Monte - Marilao Rd, City of San Jose del Monte, Manila",03:05:57,10,143,11157.0
+LTFRB_1935,"Don Chino Roces Avenue / Pryce Center, Makati City",LTFRB_4179,"Congressional Rd, General Mariano Alvarez, Manila",02:47:46,8,80,10066.0
+LTFRB_1089,"Road 3, Quezon City",LTFRB_3984,"Santa Maria San Jose Rd, Santa Maria, Manila",02:54:48,7,139,10488.0
+LTFRB_2036,"F. Ortigas, Mandaluyong City, Manila",LTFRB_2597,"Dlshsi College of Medicine, Congressional Rd, Lungsod ng Dasmariñas, Manila",02:57:01,14,110,10621.0
+LTFRB_2981,"M. L. Quezon St, Taguig City, Manila",LTFRB_3960,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",03:37:01,14,169,13021.0
+LTFRB_2067,"S Osmeña / Angono Intersection, Makati City, Manila",LTFRB_3603,"Sumulong Hwy, Antipolo City, Manila",01:33:13,7,58,5593.0
+LTFRB_2253,"Matapang / Mapang-akit St Intersection, Quezon City, Manila",LTFRB_4167,"North Luzon Expressway, Marilao, Manila",02:03:58,8,86,7438.0
+LTFRB_1622,"Padre Burgos St, Manila",LTFRB_184,"Sto Rosario Parish, Don Bastilio Bautista Boulevard, Malabon City",01:02:02,9,46,3722.0
+LTFRB_1866,"F Y Manalo, Manila",LTFRB_743,"Joshua / Amos Intersection, Quezon City",01:58:14,10,67,7094.0
+LTFRB_1731,"Harrison St, Manila",LTFRB_4301,"National Highway / Unnamed Rd, San Pedro, Manila",02:07:37,12,62,7657.0
+LTFRB_3182,"San Miguel Ave, Pasig City, Manila",LTFRB_4034,"Quirino Highway, City of San Jose del Monte, Manila",03:09:05,16,138,11345.0
+LTFRB_1099,"Congressional Avenue, Quezon City",LTFRB_294,"A. Mabini Avenue / Geronimo Intersection, Caloocan City",00:44:42,5,37,2682.0
+LTFRB_207,"C. Arellano Road, Malabon City, Gen. Luna St., Bgy. Ibaba, Malabon City",LTFRB_2908,"South Luzon Expressway, Taguig City, Manila",01:33:20,9,46,5600.0
+LTFRB_1346,"N. S. Amoranto Sr. Avenue / Banawe Avenue Intersection, Quezon City",LTFRB_3907,"Santa Maria Bypass Rd, Santa Maria, Manila",02:20:45,9,107,8445.0
+LTFRB_1902,"Julio Nakpil, Manila",STOP_881853,Muntinlupa PNR ,Infinite,-1,0,inf
+LTFRB_1760,"Cabrera St, Lungsod ng Pasay",LTFRB_790,"Polytechnic School, Quirino Highway, Quezon City",02:12:23,14,89,7943.0
+LTFRB_121,"Mateo's Diagnostic Clinic & General Hospital, Governor Fortunato Halili Avenue, Bocaue",LTFRB_3278,"Ejercito Ave / A. Sandoval Ave, Pasig City, Manila",03:20:04,16,155,12004.0
+LTFRB_1882,"President Quirino Ave. Ext / Paz St Intersection, Manila",LTFRB_2318,"Manila-Cavite Expressway, Las Piñas City, Manila",01:02:59,6,35,3779.0
+LTFRB_1816,"G Tuazon / Union Civica Intersection, Manila",LTFRB_3446,"Ortigas Avenue Extension, Tatay Manila",01:28:10,6,53,5290.0
+LTFRB_1308,"Andreas Bonifacio, Quezon City",LTFRB_3132,"Dr Jose P. Rizal Extension, Makati City, Manila",01:02:10,11,42,3730.0
+LTFRB_226,M. Naval / Ignacio Intersection City of Navotas,LTFRB_2740,"South Luzon Expressway, Biñan City, Manila",03:51:53,14,105,13913.0
+LTFRB_166,"Tawiran Public Clinic, Tawiran Road, Obando",LTFRB_4442,"Eulogio Rodriguez Sr. Ave / Don Alfredo Egea, Quezon City, Manila",01:56:06,12,90,6966.0
+LTFRB_1103,"Himlayan Road / Drakar Intersection, Quezon City",LTFRB_4454,"Gen. A Luna St, Taguig City, Manila",01:30:20,9,74,5420.0
+LTFRB_1806,"G Tuazon, Manila",LTFRB_2337,"Quirino Ave / 16th St Intersection, Parañaque City, Manila",00:51:22,12,34,3082.0
+LTFRB_3017,"Dr Sixto Antonio Ave, Pasig City, Manila",LTFRB_3577,"J.P. Rizal St, Antipolo City, Manila",01:07:48,7,74,4068.0
+LTFRB_1087,"Road 3, Quezon City",LTFRB_3559,"San Jose St,  Antipolo City, Manila",01:42:57,14,84,6177.0
+LTFRB_2460,"Emilio Aguinaldo Hwy, Silang, Manila",LTFRB_784,"Quirino Highway, Calcoocan City",05:05:24,22,201,18324.0
+LTFRB_4792,"M H Del Pilar, Malabon City",LTFRB_911,"MH del Pilar Street, Rodriguez",02:17:40,11,111,8260.0
+LTFRB_3253,"San Agustine Ave, Pasig City, Manila",LTFRB_657,North Luzon Expressway / Dulalia Intersection Valenzuela City,02:03:52,12,95,7432.0
+LTFRB_1049,"St John of Beverly, Quirino Highway, Quezon City",LTFRB_1706,"Pedro Bukaneg, Manila",01:35:10,11,61,5710.0
+LTFRB_2997,"M. Almeda, Pateros, Manila",LTFRB_55,"Land Bank, MacArthur Highway, City of Meycauayan",02:17:17,20,92,8237.0
+LTFRB_3904,"Santa Maria Bypass Rd, Santa Maria, Manila",LTFRB_4818,"Sta Maria Public Market, Santa Maria",Infinite,-1,0,inf
+LTFRB_1096,"Life Value Clinic, Congressional Avenue, Quezon City",LTFRB_5008,Sucat PNR,Infinite,-1,0,inf
+LTFRB_2148,"Ortigas Ave, San Juan, Manila",LTFRB_541,"Zapote Street / Dama de Nocge Street Intersection, Caloocan City",01:43:04,16,76,6184.0
+LTFRB_1074,"Mindanao Avenue, Quezon City",LTFRB_911,"MH del Pilar Street, Rodriguez",01:42:12,6,84,6132.0
+LTFRB_1325,"Mayon, Quezon City",LTFRB_2152,"Ortigas Ave, San Juan, Manila",00:44:16,7,26,2656.0
+LTFRB_2840,"National Hwy, Biñan City, Manila",LTFRB_4447,"Matapang, Quezon City, Manila",03:10:40,16,112,11440.0
+LTFRB_113,"Rizal Avenue / Jose Abad Santos Avenue Interchange, Caloocan City",LTFRB_3330,"Manila East Rd, Angono, Manila",02:13:06,12,86,7986.0
+LTFRB_4257,"Governor's Dv, Dasmariñas City, Manila",LTFRB_570,"Novastop, Quirino Highway, Caloocan City",04:29:48,20,179,16188.0
+LTFRB_3912,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",LTFRB_4076,"Bulacan Standard Academy, City of San Jose del Monte, Manila",01:10:13,2,65,4213.0
+LTFRB_3358,"E Bank Rd, Taytay, Manila",LTFRB_3431,"Ortigas Ave, Pagis City, Manila",00:22:07,1,16,1327.0
+LTFRB_2171,"Main Ave / 10th Ave Intersection, Quezon City, Manila",LTFRB_3749,"J. P. Rizal St, Marikina City, Manila",00:36:33,7,27,2193.0
+LTFRB_2646,"Alabang-Zapote Road, Muntinlupa City, Manila",LTFRB_4034,"Quirino Highway, City of San Jose del Monte, Manila",04:48:54,25,164,17334.0
+LTFRB_1244,"Epifanio de los Santos Avenue / North Avenue Intersection, Quezon City",LTFRB_2240,"V. Luna Ave / Kalayaan Ave Intersection, Quezon City, Manila",00:19:09,1,15,1149.0
+LTFRB_2047,"Villarica St / A. Mabini Intersection, Mandaluyong City, Manila",LTFRB_379,"Timoteo Paez Integrated School, Rodriguez, Manila",00:49:18,10,25,2958.0
+LTFRB_4190,"Congressional Rd / Southwoods Av, Binam City, Manila",LTFRB_638,"Bagbaguin Elementary School, Genteral Luis, Caloocan City",04:03:12,21,129,14592.0
+LTFRB_2578,"Near Salawag Elementary School, Molino-Paliparan Rd, Lungsod ng Dasmariñas, Manila",LTFRB_2895,"E Service Rd, Parañaque City, Manila",02:02:34,6,76,7354.0
+LTFRB_2381,"Dr A. Santos Ave, Parañaque City, Manila",LTFRB_3273,"A. Sandoval Ave, Pasig City, Manila",02:00:24,4,96,7224.0
+LTFRB_2711,"Starmall Footbridge, Starmall Starmall Service Rd, Muntinlupa City, Manila",LTFRB_2904,"South Luzon Expressway, Taguig City, Manila",00:46:35,3,17,2795.0
+LTFRB_2050,"Shaw Blvd / Luna Mencias Intersection, Mandaluyong City, Manila",LTFRB_3208,"Eulogio Rodriguez Jr Ave / Doña Julia Vargas Ave Intersection, Pasig City, Manila",00:24:05,2,14,1445.0
+LTFRB_4388,"Dahlia / Rosal, Caloocan City, Manila",LTFRB_725,Maysan Road / Llenado Compound Intersection Valenzuela City,01:12:38,5,60,4358.0
+LTFRB_3387,"Manila Road East, Taytay, Manila",LTFRB_4,"Ultra Mega Market, MacArthur Highway Balagtas",03:42:01,18,153,13321.0
+LTFRB_1107,"Ambuklao, Quezon City",LTFRB_2968,"M. L. Quezon St, Taguig City, Manila",01:53:08,9,91,6788.0
+LTFRB_3988,"Catmon Barangay Hall, Santa Maria, Manila",LTFRB_4091,"San Jose del Monte - Marilao Rd, City of San Jose del Monte, Manila",00:51:32,2,44,3092.0
+LTFRB_2824,"National Hwy, Santa Rosa City, Manila",LTFRB_308,"Caloocan High School, A. Del Mundo Street, Caloocan City",03:39:04,19,119,13144.0
+LTFRB_3712,"Felix Ave, Cainta, Manila",LTFRB_647,"Lakandula / Kabiling Intersection, Valenzuela City",01:50:00,8,88,6600.0
+LTFRB_1488,"Laong Laan, Manila",LTFRB_4738,"Masaya, Quezon City",Infinite,-1,0,inf
+LTFRB_4233,"MRT-3 Ortigas Station, Epifanio de los Santos Av, Mandaluyong City, Manila",LTFRB_473,"Brighton School, Quirino Highway, City of San Jose del Monte",02:09:51,14,93,7791.0
+LTFRB_4195,"Robinsons Nova Supermarket, Quirino Highway, Caloocan City, Manila",LTFRB_987,"Commonwealth Avenue / Kalayaan A Intersection, Quezon City",00:32:19,5,12,1939.0
+LTFRB_3602,"Sumulong Hwy, Antipolo City, Manila",LTFRB_3676,"Un-named road near Marcos Hwy, Antipolo City, Manila",00:46:45,1,42,2805.0
+LTFRB_2777,"Governor's Drive, Carmona, Manila",LTFRB_3915,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",05:49:17,21,205,20957.0
+LTFRB_1869,"New Panaderos / Old Panaderos Intersection, Manila",LTFRB_4127,"San Jose del Monte - Marilao Rd / M San Juan St, Marilao, Manila",02:16:14,11,100,8174.0
+LTFRB_1888,"Jesus, Manila",LTFRB_221,"Governor Pascual, City of Navotas",00:56:17,11,33,3377.0
+LTFRB_1406,"Sitio San Roque / Central Terminal Road Intersection, Agham (North Triangle), Quezon City",LTFRB_3068,"Carlos P. Garcia Ave, Makati City, Manila",01:05:15,7,57,3915.0
+LTFRB_3502,"Alberts St, Antipolo City, Manila",LTFRB_3978,"Santa Maria San Jose Rd, Santa Maria, Manila",04:32:11,16,222,16331.0
+LTFRB_2767,"Governor's Drive / Congressional Rd Intersection, Carmona, Manila",LTFRB_460,"Sta. Maria - Tungkong Mangga Rd, City of San Jose del Monte",05:07:06,29,158,18426.0
+LTFRB_2841,"Malvar St / National Hwy Intersection, Biñan City, Manila",LTFRB_3233,"Elizco Rd, Pateros, Manila",02:20:58,11,106,8458.0
+LTFRB_3353,"E Bank Rd, Taytay, Manila",LTFRB_615,"Topaz, Caloocan City",02:08:59,14,98,7739.0
+LTFRB_2627,"Manuel L. Quezon, Muntinlupa City, Manila",LTFRB_791,"Quirino Highway, Quezon City",03:06:38,25,100,11198.0
+LTFRB_1954,"Skyway, Makati City, Manila",LTFRB_693,"Maycauayan Camalig, City of Meycauayan",02:20:57,11,102,8457.0
+LTFRB_143,"Palasan Chapel, M H Del Pilar, Kapitan Viilila, Obando, Valenzuela City",LTFRB_3608,"Sumulong Hwy, Antipolo City, Manila",02:12:42,14,97,7962.0
+LTFRB_2538,"Palico Daanan / Molino Rd Intersection, Bacoor City, Manila",LTFRB_4030,"Dr Eduardo V. Roquero Sr. Rd / Querino Highway, City of San Jose del Monte, Manila",04:44:52,19,188,17092.0
+LTFRB_1554,"Jose Abad Santos Ave., Manila",LTFRB_3254,"Elpidio Santos, Pasig City, Manila",01:13:34,8,46,4414.0
+LTFRB_236,"M. Naval, City of Navotas",LTFRB_4462,"MRT-3 Boni Ave Station , Epifanio de los Santos Ave / Pinatubo, Makati City, Manila",01:35:36,8,54,5736.0
+LTFRB_2361,"Ninoy Aquino Ave, Lungsod ng Pasay, Manila",LTFRB_3170,"Mayflower, Mandaluyong City, Manila",00:55:33,8,32,3333.0
+LTFRB_1568,"T. Mapua, Manila",LTFRB_1623,"Magallanes Dr, Manila",00:07:07,1,7,427.0
+LTFRB_4197,"MMDA EDSA-Central Terminal Bus Station Northbound, Quezon City, Manila",LTFRB_4550,"Daang Reyna, Montinlupa City",03:08:47,14,112,11327.0
+LTFRB_2200,"Don Quintin Paredes High School, Anonas, Quezon City, Manila",LTFRB_2640,"Yellow Station, South Station Complex Spectrum Midway Extension,  Muntinlupa City, Manila",02:14:43,12,72,8083.0
+LTFRB_2382,"Dr A. Santos Ave / N Lopez Ave Intersection, Parañaque City, Manila",LTFRB_727,"Dona Rosario, Quezon City",02:37:52,15,101,9472.0
+LTFRB_2509,"Emilio Aguinaldo Hwy, Lungsod ng Dasmariñas, Manila",LTFRB_287,"M. Naval, Malabon City",03:51:20,14,148,13880.0
+LTFRB_1066,"Mindanao Avenue, Quezon City",LTFRB_2971,"M. L. Quezon St / Pangilinan Intersection, Taguig City, Manila",01:44:17,9,89,6257.0
+LTFRB_124,"New Bypass Road, Santa Maria",LTFRB_851,"Fairlane / Dahlia Intersection, Quezon City",02:10:39,12,84,7839.0
+LTFRB_3161,"De Los Santos / M. Concepcion Ave Intersection, Pateros, Manila",LTFRB_41,"St Mary's College, MacArthur Highway, City of Meycauayan",02:17:51,19,95,8271.0
+LTFRB_2092,"Doña M. Hemady Ave / Ramon Magsaysay Blvd Intersection, Quezon City, Manila",LTFRB_3490,"Roman Rojas Rd, Teresa, Manila",01:57:11,12,111,7031.0
+LTFRB_3170,"Mayflower, Mandaluyong City, Manila",LTFRB_3698,FVR Rd / FVR Rd,00:47:24,8,34,2844.0
+LTFRB_273,"Letre Road, Malabon City",LTFRB_3087,"Un-named road near 34th street, Taguig City, Manila",01:33:47,13,62,5627.0
+LTFRB_2431,"Emilio Aguinaldo Hwy, Imus, Manila",LTFRB_2477,"Emilio Aguinaldo Hwy, Bacoor City, Manila",00:32:16,0,23,1936.0
+LTFRB_1441,"Ferdinand Blumentritt / Felix Huertas Intersection, Quezon City",LTFRB_3115,"10th Ave, Taguig City, Manila",01:06:11,8,36,3971.0
+LTFRB_1074,"Mindanao Avenue, Quezon City",LTFRB_3417,"5th Avenue, Pagis City, Manila",01:10:55,11,61,4255.0
+LTFRB_2156,"Road 6, San Juan, Manila",LTFRB_4231,"Epifanio de los Santos Av, Mandaluyong City, Manila",00:16:42,3,18,1002.0
+LTFRB_2876,"National Hwy, Muntinlupa City, Manila",LTFRB_3687,"Marian Memorial Chapels, Marcos Hwy, Antipolo City, Manila",02:18:54,9,109,8334.0
+LTFRB_2390,"Dr A. Santos Ave / President's Ave Intersection, Parañaque City, Manila",LTFRB_3315,"Manila East Rd, Binangonan, Manila",02:48:42,13,98,10122.0
+LTFRB_1323,"Mayon / Don Manuel Agregado Intersection, Quezon City",LTFRB_3803,"Sumulong Hwy, Antipolo City, Manila",01:11:25,9,53,4285.0
+LTFRB_2408,"Quirino Ave, Las Piñas City, Manila",LTFRB_3201,"Ortigas Ave, Pasig City, Manila",01:29:53,9,53,5393.0
+LTFRB_2402,"Terminal 1 Arrivals Area Rd, Ninoy Aquino International Airport,  Parañaque City, Manila",LTFRB_3382,"Manila Road East, Taytay, Manila",02:03:35,15,80,7415.0
+LTFRB_2533,"Molino Rd, Bacoor City, Manila",LTFRB_3882,"The Gallery Building, Quezon City, Manila",02:05:22,11,68,7522.0
+LTFRB_1899,"President Quirino Ave / Angel Linao Intersection, Manila",LTFRB_825,Commonwealth Avenue / Mindanao Drive Intersection Quezon City,01:54:29,15,83,6869.0
+LTFRB_3389,"Rizal Avenue, Taytay, Manila",LTFRB_4494,"Dumulay, Quezon City, Manila",02:09:09,12,92,7749.0
+LTFRB_2082,"Eulogio Rodriguez Sr. Ave / Balete Dr Intersection, Quezon City, Manila",LTFRB_58,"ET Pacific, MacArthur Highway, City of Meycauayan",01:29:10,8,60,5350.0
+LTFRB_1850,"N.Domingo,  San Juan, Manila",LTFRB_3394,"Rizal Ave / Gonzaga Intersection, Taytay, Manila",01:07:37,5,44,4057.0
+LTFRB_2533,"Molino Rd, Bacoor City, Manila",LTFRB_623,"Genteral Luis / Pasacola Road Intersection, Caloocan City",02:59:51,14,118,10791.0
+LTFRB_4075,"Seventh Day Adventist Church, City of San Jose del Monte, Manila",LTFRB_64,"Mananday Tricycle and Pedicab Terminal, MacArthur Highway, Malanday, Valenzuela City",02:14:01,6,119,8041.0
+LTFRB_1089,"Road 3, Quezon City",LTFRB_1911,"Zobel Roxas Ave / Madre Perla Intersection, Manila",01:22:22,10,58,4942.0
+LTFRB_1171,"Quirino Highway near Maximina Intersection, Quezon City",LTFRB_4586,"Commerce Avenue, Montinlupa City",02:37:00,18,57,9420.0
+LTFRB_2874,"National Hwy, Muntinlupa City, Manila",LTFRB_432,"Un-named Road, City of San Jose del Monte",04:25:26,25,144,15926.0
+LTFRB_2261,"Tandang Sora Ave, Quezon City, Manila",LTFRB_4650,"Nueve du Febrero, Mandaluyong City",01:10:00,9,60,4200.0
+LTFRB_2301,"Roxas Blvd / Redemptorist Road Intersection, Parañaque City, Manila",LTFRB_2401,"Maria, Parañaque City, Manila",00:21:13,3,12,1273.0
+LTFRB_2900,"DBP Ave, Taguig City, Manila, Manila",LTFRB_3434,"Ortigas Ave, Pagis City, Manila",01:17:31,7,43,4651.0
+LTFRB_3931,"Norzagaray-Santa Maria Rd, Santa Maria, Manila",LTFRB_440,"Quirino Highway, City of San Jose del Monte",02:08:46,2,122,7726.0
+LTFRB_3383,"Manila Road East, Taytay, Manila",LTFRB_4467,"Sierra Madre / Sultan, Makati City, Manila",01:03:33,9,45,3813.0
+LTFRB_3864,"M. Tuazon St, Marikina City, Manila",LTFRB_4475,"P. Oliveros St, Antipolo City, Manila",01:19:54,8,67,4794.0
+LTFRB_4307,"Susana Heights Toll Gate, Susana Heights Access Rd, Muntinlupa City, Manila",LTFRB_4944,Baclaran LRT,Infinite,-1,0,inf
+LTFRB_1873,"Pedro Gil / Fabie Intersection, Manila",LTFRB_514,"Barugo, Caloocan City",01:57:30,18,81,7050.0
+LTFRB_1402,"Quezon Avenue (North Triangle), Quezon City",LTFRB_486,"St Joseph, City of San Jose del Monte",01:41:58,14,66,6118.0
+LTFRB_2171,"Main Ave / 10th Ave Intersection, Quezon City, Manila",LTFRB_2520,"Molino Rd, Bacoor City, Manila",01:55:56,13,82,6956.0
+LTFRB_2,"STI College, MacArthur Highway, Balagtas",LTFRB_2111,"Judge Damien Jimenez / Kamuning Rd, Quezon City, Manila",02:33:46,14,119,9226.0
+LTFRB_174,"Panghulo Chapel, Flamengco Street, Malabon City",LTFRB_814,"Regalado Highway, Quezon City",01:46:23,12,83,6383.0
+LTFRB_310,"A. Del Mundo Street / 6th Avenue West Intersection, Caloocan City",LTFRB_3244,"Caruncho Ave, Pasig City, Manila",01:23:58,11,51,5038.0
+LTFRB_3280,"Ortigas Ave, Pasig City, Manila",LTFRB_3718,"Sta. Lucia East Grand Mall, un-named road near Felix Road, Cainta, Manila",00:38:06,3,25,2286.0
+LTFRB_3227,"Gen.Natividad, Taguig City, Manila",LTFRB_788,"Quirino Highway / La Mesa Road Intersection, Calcoocan City",02:17:54,20,108,8274.0
+LTFRB_1877,"President Quirino Ave, Manila",LTFRB_4101,"Our Lady of Mercy Quasi Parish, Marilao, Manila",02:31:04,10,118,9064.0
+LTFRB_3699,"Marcos Hwy, Pasig City, Manila",LTFRB_4152,"San Jose del Monte - Marilao Rd / North Luzon Expressway, Marilao, Manila",02:06:58,12,91,7618.0
+LTFRB_3225,"F.Manalo, Taguig City, Manila",LTFRB_4652,"Nueve du Febrero, Mandaluyong City",00:49:57,6,35,2997.0
+LTFRB_3840,"Bayan-Bayanan Ave / T. Bugallon St Intersection, Marikina City, Manila",LTFRB_867,"Payatas Road, Quezon City",01:02:55,5,50,3775.0
+LTFRB_2153,"Ortigas Ave, San Juan, Manila",LTFRB_449,"Un-named Road, City of San Jose del Monte",02:39:42,17,102,9582.0

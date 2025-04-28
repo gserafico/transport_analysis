@@ -1,0 +1,11 @@
+origin_id,origin_name,destination_id,destination_name,pt_time_graph_formatted,driving_time_google_formatted,transit_time_google_formatted,pt_path_stops,driving_distance_google_meters,pt_time_graph_seconds,driving_time_google_seconds,transit_time_google_seconds
+LTFRB_1052,"Quirino Highway / T. Urbano Intersection, Quezon City",LTFRB_1139,"North Luzon Expressway near Bonifacio Memorial Elementary School, Caloocan City",00:28:45,00:13:32,03:36:54,26,7502,1725.0,812,13014.0
+LTFRB_2208,"St. Bridget School, Quezon City, Manila",LTFRB_660,"North Luzon Expressway, Valenzuela City",01:27:08,00:30:09,N/A,61,21069,5228.0,1809,
+LTFRB_2058,"Boni Ave / Epifanio de los Santos Avenue Intersection, Mandaluyong City, Manila",LTFRB_3337,"Baytown, Angono, Manila",01:16:04,00:29:30,02:52:26,48,17809,4564.0,1770,10346.0
+LTFRB_1043,"Novaliches Elementary School, Quirino Highway, Quezon City",LTFRB_590,"Galilee / Kabatuhan Intersection, Caloocan City",00:19:37,00:10:12,00:54:56,21,3937,1177.0,612,3296.0
+LTFRB_2057,"Epifanio de los Santos Avenue, Mandaluyong City, Manila",LTFRB_653,"North Luzon Expressway, Valenzuela City",01:34:54,00:33:01,01:58:12,74,28287,5694.0,1981,7092.0
+LTFRB_55,"Land Bank, MacArthur Highway, City of Meycauayan",LTFRB_659,"North Luzon Expressway, Valenzuela City",00:48:48,00:10:03,00:44:05,51,5542,2928.0,603,2645.0
+LTFRB_3805,"Sumulong Hwy, Antipolo City, Manila",LTFRB_655,"North Luzon Expressway, Valenzuela City",01:46:34,00:33:53,02:27:45,75,24413,6394.0,2033,8865.0
+LTFRB_4039,"Quirino Highway, City of San Jose del Monte, Manila",LTFRB_654,"North Luzon Expressway / M Gregorio, Valenzuela City",02:08:23,00:50:03,03:06:49,95,29501,7703.0,3003,11209.0
+LTFRB_1137,"North Luzon Expressway, Caloocan City",LTFRB_2238,"P. Tuazon Blvd, Quezon City, Manila",00:51:45,00:23:02,01:46:03,41,11273,3105.0,1382,6363.0
+LTFRB_1136,"North Luzon Expressway, Caloocan City",LTFRB_658,"North Luzon Expressway near Arty Subdivision, Valenzuela City",00:33:07,00:18:41,01:25:18,28,15679,1987.0,1121,5118.0
