@@ -5,7 +5,7 @@ This repository contains a suite of Python scripts for analyzing transportation 
 **Two main functionalities are included:**
 
 1.  **GTFS Network Analysis Workflow:** Analyzes public transport network structure, performance, and resilience based on GTFS data. It generates metrics, identifies potential issues, provides recommendations, and visualizes results (`network_analysis.py`, `recommendations.py`, `spatial_analysis.py`).
-2.  **Video Traffic Counting Workflow:** Utilizes object detection (via Roboflow) and tracking (via Supervision) to count vehicles crossing a virtual line in video footage, aggregating counts by class over time intervals (`computer_vision.py` - assumed filename).
+2.  **Video Traffic Counting Workflow:** Utilizes object detection (via Roboflow) and tracking (via Supervision) to count vehicles crossing a virtual line in video footage, aggregating counts by class over time intervals (`computer_vision.py`).
 
 ---
 
