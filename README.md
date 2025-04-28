@@ -140,7 +140,7 @@ More sample outputs available in the sample_output directory
 Sample plot generated with spatial_analysis.py
 
 ### Vehicle Counter Sample Frame
-![alt text](![alt text](sample_output/computer_vision.png)
+![alt text](sample_output/computer_vision.png)
 
 Frame Visualization of Object Detection
 
